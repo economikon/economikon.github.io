@@ -1,0 +1,124 @@
+body                                { background-image: url('bg-faith.png'); font-size: 32px; font-family: Macondo; background-color: #000; color: #e5be61; margin-left: 62px; }
+
+body.ipad                           { background-image: url('ikon.png'); font-size: 32px; font-family: Macondo; background-color: #000; color: #e5be61; margin-left: 62px; }
+
+.text { font-size: 18px; font-family: Forum; color: #fff; padding-top: 6px; font-weight: normal; }
+.question { font-family: Forum; text-transform: smallcaps; font-size: 24px; color: #e5be61; padding-top: 6px; clear: both; margin: 6px 24px; }
+.answer { font-size: 18px; font-family: Forum; color: #fff; padding-top: 6px; clear: both; margin: 6px 24px; }
+
+.economikon  { margin-top: 42px; border-bottom: 1px dotted #e5be61; }
+.welcome  { margin-top: 22px; }
+.Contact  { margin-top: 32px; }
+.faq { padding-top: 32px; clear: both; }
+.imprimatur  { margin-top: 32px; margin-bottom: 94px; }
+.privacy  { margin-top: 32px; }
+
+.title { }
+
+th                                  { font-size: 22px; line-height: 24px; }
+td                                  { font-size: 24px; font-family: Forum; color: #fff; padding-top: 6px; }
+
+p                                   { padding-top: 12px; }
+
+a:link                              { color: #e3b8c8; text-decoration: underline; }
+a:hover                             { color: #8f975b; text-decoration: underline; }
+a:visited                           { color: #fff; text-decoration: underline; } 
+
+img                                 { border: 3px solid #fff; }
+
+.about img                          { border: 3px solid #fff; float: left; width: 48%; margin: 10px 30px 6px 4px; }
+
+div.calendar-dateline               { }
+div.calendar-date                   { float: left; font-family: Forum; text-transform: uppercase; font-size: 24px; }
+div.calendar-place                  { float: right; font-family: Forum; text-transform: uppercase; font-size: 24px; }
+
+div.calendar-detail                 { clear: both; padding-top: 12px; }
+
+table.calendar-events-table         { font-style: italic; font-size: 22px; line-height: 24px;  }
+tr.calendar-events-row              { }
+td.calendar-events-datetime         { font-weight: bold; font-style: normal; font-size: 22px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; color: #999; padding-right: 9px; }
+td.calendar-events-summary          { font-style: normal; font-size: 22px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; }
+td.calendar-events-datetime2        { }
+td.calendar-events-description      { font-style: normal; font-size: 22px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px;  }
+
+div.calendar-commemorations         { padding-top: 12px; clear: both; }
+span.calendar-commemorations-title  { }
+div.calendar-commemoration-text     { font-style: normal; font-size: 22px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; }
+
+div.calendar-readings               { padding-top: 12px; clear: both; }
+span.calendar-readings-title        { }
+div.calendar-office                 { font-style: normal; font-size: 22px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; margin-right: 20px; }
+div.calendar-office-title           { font-size: 22px; line-height: 24px; float: left; margin-right: 15px; font-variant: small-caps; color: #e5be61; }
+div.calendar-scripture-passages     { }
+div.calendar-scripture-verses       { }
+span.calendar-verse-title           { font-weight: bold; font-style: italic; font-size: 22px; line-height: 24px;  }
+div.calendar-verse-text             { font-style: normal; font-size: 22px; line-height: 24px; font-family: Forum; color: #fff; margin-top: 10px; margin-bottom: 10px; margin-left: 24px; clear: both; margin-right: 20px; }
+span.calendar-verse-number          { position: relative; top: -0.3em; font-size: 85%; color: #e5be61; font-weight: bold;  }
+
+div.calendar-publicans              { padding-top: 12px; clear: both; }
+span.calendar-publicans-title       { }
+div.calendar-publicans-prayers      { }
+div.calendar-publicans-prayer       { }
+div.calendar-publicans-location     { font-weight: bold; font-size: 22px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px;  }
+div.calendar-publicans-text         { font-style: normal; font-size: 22px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; margin-right: 20px; }
+
+div.calendar-salvation              { padding-top: 12px; clear: both; }
+span.calendar-salvation-title       { }
+div.calendar-salvation-text         { font-style: normal; font-size: 22px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; margin-right: 20px; }
+
+div.calendar-repose                 { padding-top: 12px; clear: both; }
+span.calendar-respose-title         { }
+div.calendar-repose-text            { font-style: normal; font-size: 22px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; margin-right: 20px; }
+
+div.calendar-fasting                { padding-top: 12px; clear: both; }
+span.calendar-fasting-title         { }
+div.calendar-fasting-text           { font-style: normal; font-size: 22px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; margin-right: 20px; }
+
+hr  { color: #e5be61; background-color: #e5be61; height: 1px; clear: both; border: 0; }
+
+table.ordo-synopsis-table           { }
+
+tr.ordo-title-header-row            { }
+tr.ordo-major-header-row            { }
+tr.ordo-minor-header-row            { }
+tr.ordo-week-row                    { }
+tr.ordo-note-row                    { }
+tr.ordo-trailer-row                 { }
+
+th.ordo-title-header                { }
+th.ordo-week-header                 { }
+th.ordo-sunday-header               { }
+th.ordo-weekdays-header             { }
+th.ordo-month-header                { }
+th.ordo-sunday-header               { }
+th.ordo-tone-header                 { }
+th.ordo-orthros-header              { }
+th.ordo-epistle-header              { }
+th.ordo-gospel-header               { }
+th.ordo-weekdays-epistle-header     { }
+th.ordo-weekdays-gospel-header      { }
+th.ordo-trailer-header              { }
+
+td.ordo-month-column                { text-align: center; vertical-align: top;  font-style: normal; font-size: 22px; line-height: 24px; font-family: Forum; color: #e5be61; padding-top: 6px; margin-left: 24px; margin-right: 20px;}
+td.ordo-sunday-column               { text-align: right;  vertical-align: top; font-weight: bold; font-size: 22px; line-height: 24px; font-family: Forum; color: #e5be61; padding-top: 6px; margin-left: 24px; margin-right: 20px;}
+td.ordo-tone-column                 { text-align: right;  vertical-align: top; font-weight: bold; font-size: 22px; line-height: 24px; font-family: Forum; color: #e5be61; padding-top: 6px; margin-left: 24px; margin-right: 20px;}
+td.ordo-orthros-column              { text-align: right;  vertical-align: top; font-style: normal; font-size: 22px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; margin-right: 20px;}
+td.ordo-epistle-info-column         { text-align: center; vertical-align: top; }
+td.ordo-epistle-column              { text-align: left;   vertical-align: top; }
+td.ordo-gospel-info-column          { text-align: center; vertical-align: top; }
+td.ordo-gospel-column               { text-align: left;   vertical-align: top; }
+td.ordo-weekdays-epistle-column     { text-align: center; vertical-align: top; }
+td.ordo-weekdays-gospel-column      { text-align: center; vertical-align: top; }
+td.ordo-note-number-column          { text-align: center; vertical-align: top; }
+td.ordo-note-text-column            { text-align: left;   vertical-align: top; }
+
+div.location-name                   { }
+div.location-person                 { font-style: normal; font-size: 24px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; }
+div.location-address                { font-style: normal; font-size: 24px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; }
+div.location-place                  { font-style: normal; font-size: 24px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; }
+div.location-phone                  { font-style: normal; font-size: 24px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 20px; padding-bottom: 16px; margin-left: 24px; }
+div.location-directions             { font-style: normal; font-size: 24px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; }
+div.location-website                { font-style: normal; font-size: 24px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; }
+div.location-bulletin               { font-style: normal; font-size: 24px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; }
+div.location-image                  { font-style: normal; font-size: 24px; line-height: 24px; font-family: Forum; color: #fff; padding-top: 6px; margin-left: 24px; }
+.location img                       { border: 3px solid #fff; }
