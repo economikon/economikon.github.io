@@ -48,9 +48,10 @@ div.month {
  */
   display: table;
   table-layout: fixed;
-  width: 100%;
+  width: 99%;
   border-collapse: collapse;
-
+  margin-left: 4pt;
+  margin-right: 4pt;
   border: none;
 }
 
