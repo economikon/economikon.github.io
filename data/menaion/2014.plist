@@ -1,0 +1,4752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>liturgy</key>
+  <array>
+    <dict>
+      <key>commemoration</key>
+      <string>Circumcision of our Lord, God and Savior Jesus Christ - Commemoration of our Father among the Saints Basil the Great Archbishop of Caesarea in Cappadocia (Class 3)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 2:8-12</string>
+      <key>gospel</key>
+      <string>LUKE 2:20-22; 40-52</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Preparation of the Feast of the Theophany - Commemoration of our Father among the Saints Silvester, Pope of Rome (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>HEBREWS 5:4-10</string>
+      <key>gospel</key>
+      <string>JOHN 3:1-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>2nd Day of the Preparation of Theophany - Commemoration of the Holy Prophet Malachi and of the Holy Martyr Gordios (Class 5)</string>
+      <key>note</key>
+      <string>(TODAY IS THE FAST OF THE PARAMONY OFTHE THEOPHANY)</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 15:47-58</string>
+      <key>gospel</key>
+      <string>JOHN 6:48-55</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>3rd Day of the Preparation of Theophany - synaxis of the Seventy Holy Disciples - Commemoration of our Holy Father Theoktistos, Abbot of the Monastery of Cucume in Sicily (Class 5)</string>
+      <key>note</key>
+      <string>Saturday Before the Theophany of our Lord</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>1 TIMOTHY 3:13-16; 4:1-5</string>
+      <key>gospel</key>
+      <string>MATTHEW 3:1-6</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>(THE FAST OF THE PARAMONY ON FRIDAY) - Commemoration of the Holy Martyrs Theopemptos and Theonas and of our Venerable Mother Syncletica (Class 5)</string>
+      <key>note</key>
+      <string>Sunday Before the Theophany of our Lord</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>2 TIMOTHY 4:5-8</string>
+      <key>gospel</key>
+      <string>MARK 1:1-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Theophany of our Lord, God and Saviour Jesus Christ (Class 1)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>TITUS 2:11-14; 3:4-7</string>
+      <key>gospel</key>
+      <string>MATTHEW 3:13-17</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>2nd Day of Celebration of the Theophany - holy Synaxis in honor of the Prophet and Glorius Forerunner John the Baptist (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>ACTS 19:1-8</string>
+      <key>gospel</key>
+      <string>JOHN 1:29-34</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>3rd Day of Celebration of the Theophany - Commemoration of our Venerable Mother Dominica and of our Holy Father George the Chosebite (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 4:6-15</string>
+      <key>gospel</key>
+      <string>JOHN 3:22-33</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>4th Day of Celebration of the Theophany - Commemoration of the Holy Martyr Polyeuctos (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>2 TIMOTHY 2:1-10</string>
+      <key>gospel</key>
+      <string>MARK 1:9-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>5th Day of Celebration of the Theophany - Commemoration of our Holy Father Gregory Bishop of Nyssa, of the Holy Marcian, Priest and Procurer of the Great Church, and of the Holy Dometian, Bishop of Melitene (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>EPHESIANS 4:7-13</string>
+      <key>gospel</key>
+      <string>LUKE 3:19-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>6th Day of Celebration of the Theophany - Commemoration of our holy Father Theodosius the Founder of Monasteries (Class 3)</string>
+      <key>note</key>
+      <string>Saturday After the Theophany of our Lord</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>HEBREWS 13:7-16</string>
+      <key>gospel</key>
+      <string>MATTHEW 11:27-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>7th Day of Celebration of the Theophany - Commemoration of the Holy woman Martyr Tatiana (Class 5)</string>
+      <key>note</key>
+      <string>Sunday After Theophany</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>EPHESIANS 4:7-13</string>
+      <key>gospel</key>
+      <string>MATTHEW 4:12-17</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>8th Day of Celebration of the Theophay - Commemoration of the Holy Martyrs Ermylus and Stratonicos (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>2 TIMOTHY 2:1-10</string>
+      <key>gospel</key>
+      <string>LUKE 20:1-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Leave-taking of the Feast of the Theophany - Commemoration of our Holy Fathers who were martyred in Sinai and Raitho (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>HEBREWS 10:32-35</string>
+      <key>gospel</key>
+      <string>LUKE 12:32-41</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Fathers Paul of Thebes and John the Hut-Dweller (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>GALATIANS 5:22-26; 6:1-3</string>
+      <key>gospel</key>
+      <string>LUKE 12:32-40</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Veneration of the Honorable Chains of the Holy and Illustrious Apostle Peter (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ACTS 12:1-11</string>
+      <key>gospel</key>
+      <string>JOHN 21:14-25</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy and God-bearing Father Anthony the Great (Class 3)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>HEBREWS 13:17-21</string>
+      <key>gospel</key>
+      <string>LUKE 6:17-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Fathers the Great Athanasius and Cyril, Archbishops of Alexandria (Class 3)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>HEBREWS 13:7-16</string>
+      <key>gospel</key>
+      <string>MATTHEW 5:14-19</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Macarios the Younger (the Alexandrian); Saint Macarios the Elder; and Arsenios, Archbishop of Cocyre (Class 5)</string>
+      <key>note</key>
+      <string>Twelfth Sunday After the Holy Cross - The Ten Lepers</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 3:4-11</string>
+      <key>gospel</key>
+      <string>LUKE 17:12-19</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy and God-Bearing Father Euthymius the Great (Class 3)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 4:6-15</string>
+      <key>gospel</key>
+      <string>LUKE 6:17-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Maximos the Confessor and of the Holy Martyr Neophyte (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 1:12-20</string>
+      <key>gospel</key>
+      <string>LUKE 12:8-12</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostle Timothy and of the Holy Martyr Anastasius the Persian (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>2 TIMOTHY 1:3-8</string>
+      <key>gospel</key>
+      <string>MATTHEW 10:32-33; 37-38; 27-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hiermartyr Clement Bishop of Ancyra and of the Holy Martyr Agathangel (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 3:20-21; 4:1-3</string>
+      <key>gospel</key>
+      <string>MARK 2:23-28; 3:1-5</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Our Venerable Mother Xenia (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>GALATIANS 5:22-26; 6:1-3</string>
+      <key>gospel</key>
+      <string>MATTHEW 25:1-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Gregory the Theologian, Patriarch of Constantinople (Class 3)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>HEBREWS 7:26-28; 8:1-2</string>
+      <key>gospel</key>
+      <string>JOHN 10:9-16</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Xenophon and his relatives (Class 5)</string>
+      <key>note</key>
+      <string>Fifteenth Sunday After the Holy Cross - Zaccheus</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>1 TIMOTHY 4:9-15</string>
+      <key>gospel</key>
+      <string>LUKE 19:1-10</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Transfer of the Remains of our Father among the Saints John Chrysostom (Class 3)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 7:26-28; 8:1-2</string>
+      <key>gospel</key>
+      <string>JOHN 10:9-16</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Ephrem the Syriac (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>GALATIANS 5:22-26; 6:1-3</string>
+      <key>gospel</key>
+      <string>LUKE 6:17-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Transfer of the Remains of the Holy Hieromartyr Ignatius the God-bearer  (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 10:32-38</string>
+      <key>gospel</key>
+      <string>MARK 9:33-41</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Hippolytus of Rome, and of our Fathers among the Saints and Great Ecumenical Doctors Basil the Great, Gregory the Theologian, and John Chrysostom (Class 3)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 13:7-16</string>
+      <key>gospel</key>
+      <string>MATTHEW 5:14-19</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Cyrus and John, the Moneyless Wonderworkers (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 12:27-31; 13:1-7</string>
+      <key>gospel</key>
+      <string>MATTHEW 10:1; 5-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Preparation of the Feast of the Presentation of our Lord, God and Saviour Jesus Christ - Commemoration of the Holy Martyr Tryphon (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ROMANS 8:28-39</string>
+      <key>gospel</key>
+      <string>LUKE 10:19-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Presentation of our Lord, God and Saviour Jesus Christ to the Temple, and Purification of the Blessed Virgin Mary (Class 2)</string>
+      <key>note</key>
+      <string>Sunday of the Canaanite Woman</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>HEBREWS 7:7-17</string>
+      <key>gospel</key>
+      <string>LUKE 2:22-40</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Simeon the just who received the Lord and of Anne the Prophetess (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Monday leading to the Sunday of the Pharisee and the Publican</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>1 PETER 2:21-25; 3:1-9</string>
+      <key>gospel</key>
+      <string>MARK 12:13-17</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Isidore of Pelusium (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Tuesday leading to the Sunday of the Pharisee and the Publican</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>1 PETER 3:10-22</string>
+      <key>gospel</key>
+      <string>MARK 12:18-27</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy woman Martyr Agatha (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Wednesday leading to the Sunday of the Pharisee and the Publican</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>1 PETER 4:1-11</string>
+      <key>gospel</key>
+      <string>MARK 12:28-37</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Boukolos, Bishop of Smyrna and of Holy Martyr, the physician Elian of Emessa (Homs). (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Thursday leading to the Sunday of the Pharisee and the Publican</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>1 PETER 4:12-19; 5:1-5</string>
+      <key>gospel</key>
+      <string>MARK 12:38-44</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Parthenios, Bishop of Lampsacus - Venerable Luke of Hellas (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Friday leading to the Sunday of the Pharisee and the Publican</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>1 PETER 1:1-10</string>
+      <key>gospel</key>
+      <string>MARK 13:1-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Great-martyr Theodore, General of the Armies, and of the Prophet Zekariah (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Saturday leading to the Sunday of the Pharisee and the Publican</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>2 TIMOTHY 2:11-19</string>
+      <key>gospel</key>
+      <string>LUKE 18:2-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Nicephoros (Class 5)
+Today is the Leave-taking of the Feast of the Presentation of our Lord</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Sunday of the Pharisee and the Publican</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>2 TIMOTHY 3:10-15</string>
+      <key>gospel</key>
+      <string>LUKE 18:10-14</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Charalampos (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Monday leading to the Sunday of the Prodigal Son</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>2 PETER 1:20-21; 2:1-9</string>
+      <key>gospel</key>
+      <string>MARK 13:9-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Blaise, Bishop of Sebastea (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Tuesday leading to the Sunday of the Prodigal Son</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>2 PETER 2:9-22</string>
+      <key>gospel</key>
+      <string>MARK 13:14-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Meletios, Archbishop of Antioch (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Wednesday leading to the Sunday of the Prodigal Son</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>2 PETER 3:1-18</string>
+      <key>gospel</key>
+      <string>MARK 13:24-31</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Martinian (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Thursday leading to the Sunday of the Prodigal Son</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 JOHN 1:8-10; 2:1-6</string>
+      <key>gospel</key>
+      <string>MARK 13:31-37; 14:1-2</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Auxentios and of the Holy Hermit Maron (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Friday leading to the Sunday of the Prodigal Son</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 JOHN 2:7-17</string>
+      <key>gospel</key>
+      <string>MARK 14:3-9</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostle Onesimos (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Saturday leading to the Sunday of the Prodigal Son</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 TIMOTHY 6:11-16</string>
+      <key>gospel</key>
+      <string>LUKE 20:46-47; 21:1-4</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Pamphilos and his companions (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Sunday of the Prodigal Son</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 6:12-20</string>
+      <key>gospel</key>
+      <string>LUKE 15:11-32</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Great-Martyr Theodore (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Monday leading to the Sunday of Meat-Fare</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 JOHN 2:18-29; 3:1-8</string>
+      <key>gospel</key>
+      <string>MARK 11:1-11</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Leo, Pope of Rome (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Tuesday leading to the Sunday of Meat-Fare</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 JOHN 3:9-22</string>
+      <key>gospel</key>
+      <string>MARK 14:10-42</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostle Archippos (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Wednesday leading to the Sunday of Meat-Fare</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 JOHN 3:21-24; 4:1-11</string>
+      <key>gospel</key>
+      <string>MARK 14:43-72; 15:1</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Leo, Bishop of Catania (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Thursday leading to the Sunday of Meat-Fare</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 JOHN 4:20-21; 5:1-21</string>
+      <key>gospel</key>
+      <string>MARK 15:1-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Fathers Timothy the Symbolite and Eustathios, Archbishop of Antioch (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Friday leading to the Sunday of Meat-Fare</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>2 JOHN 1:1-13</string>
+      <key>gospel</key>
+      <string>MARK 15:22-41</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Discovery of the Venerable Remains of the Holy Martyrs at Eugenios (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Saturday of the Dead</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 10:23-29</string>
+      <key>gospel</key>
+      <string>LUKE 21:8-9; 25-27; 33-36</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Polycarp, Bishop of Smyrna (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Sunday of Meat-Fare</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 8:8-13; 9:1-2</string>
+      <key>gospel</key>
+      <string>MATTHEW 25:31-46</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>First and Second Discoveries of the Head of the Holy and Glorious Prophet John the Forerunner (Class 3)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Monday leading to the Sunday of Cheese-Fare</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 4:6-15</string>
+      <key>gospel</key>
+      <string>MATTHEW 11:2-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Tarasios, Archbishop of Constantinople (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Tuesday leading to the Sunday of Cheese-Fare</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>JUDE 1:1-10</string>
+      <key>gospel</key>
+      <string>LUKE 22:39-42; 45-71; 23:1</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Porphyrios, Bishop of Gaza (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Wednesday leading to the Sunday of Cheese-Fare</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 1:18-24</string>
+      <key>gospel</key>
+      <string>MATTHEW 26:57-75</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Procopius the Decapolitan, Confessor (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Thursday leading to the Sunday of Cheese-Fare</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>JUDE 1:11-25</string>
+      <key>gospel</key>
+      <string>LUKE 23:1-33; 33; 44-56</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Basil, Confessor, companion of Procopius the Decapolitan (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Friday leading to the Sunday of Cheese-Fare</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>EPHESIANS 5:8-19</string>
+      <key>gospel</key>
+      <string>JOHN 19:25-37</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Woman Martyr Eudocia (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Saturday of Our God-bearing Fathers the Ascetics</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>ROMANS 14:19-23; 16:25-27</string>
+      <key>gospel</key>
+      <string>MATTHEW 6:1-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Theodotos, Bishop of Cyrene on Cyprus (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Prophonisimon (Herald of Lent) *** Sunday of Cheese-Fare</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>ROMANS 13:11-14; 14:1-4</string>
+      <key>gospel</key>
+      <string>MATTHEW 6:14-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Eutropios, Cleonicos, and Basiliscos (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Monday leading to the Sunday of Orthodoxy</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 3:18-23</string>
+      <key>gospel</key>
+      <string>LUKE 21:8-36</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Gerasimos the Jordanite (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Tuesday leading to the Sunday of Orthodoxy</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>ROMANS 8:14-21</string>
+      <key>gospel</key>
+      <string>MATTHEW 6:1-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Conon of Isauria (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Wednesday leading to the Sunday of Orthodoxy</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 4:13-18</string>
+      <key>gospel</key>
+      <string>MARK 11:22-26</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Forty-two Holy Martyrs of Amorium (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Thursday leading to the Sunday of Orthodoxy</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>ROMANS 15:30-33</string>
+      <key>gospel</key>
+      <string>MATTHEW 7:7-11</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyrs Ephrem, Basil, Eugene, Agathodore, Capiton, Aitheres and Elpides, Bishops of Cherson (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Friday leading to the Sunday of Orthodoxy</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 TIMOTHY 2:1-7</string>
+      <key>gospel</key>
+      <string>JOHN 15:1-7</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Theophilactus, Confessor, Metropolitan of Ncomedia (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Saturday of the Great among the Martyrs Theodore</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>HEBREWS 1:1-12</string>
+      <key>gospel</key>
+      <string>MARK 2:23-28; 3:1-5</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Forty Holy Martyrs of Sebastea (Class 3)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Sunday of Orthodoxy</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>HEBREWS 12:1-10</string>
+      <key>gospel</key>
+      <string>JOHN 1:43-51</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Codratus of Corinth and his companions (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Monday leading to the Sunday of the Holy Relics</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ROMANS 15:1-7</string>
+      <key>gospel</key>
+      <string>MATTHEW 18:10-20</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Sophronius, Patriarch of Jerusalem (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Tuesday leading to the Sunday of the Holy Relics</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>GALATIANS 6:2-10</string>
+      <key>gospel</key>
+      <string>MATTHEW 4:23-25; 5:1-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Theophane, Confessor, Monk of Sigria (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Wednesday leading to the Sunday of the Holy Relics</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 6:16-18; 7:1</string>
+      <key>gospel</key>
+      <string>MATTHEW 5:20-26</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Deposition of the Remains of our Father among the Saints Nicephorus, Patriarch of Constantinople (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Thursday leading to the Sunday of the Holy Relics</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 10:5-12</string>
+      <key>gospel</key>
+      <string>MATTHEW 5:27-32</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Benedict (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Friday leading to the Sunday of the Holy Relics</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ROMANS 12:6-11</string>
+      <key>gospel</key>
+      <string>MATTHEW 5:33-41</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Agapios and his seven companions (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Saturday leading to the Sunday of the Holy Relics</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>HEBREWS 3:12-16</string>
+      <key>gospel</key>
+      <string>MARK 1:35-44</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Sabinos the Egyptian (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Sunday of the Holy Relics and St. Gregory Palamas</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>HEBREWS 1:10-14; 2:1-3</string>
+      <key>gospel</key>
+      <string>MARK 2:1-12</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Alexis, the Man of God (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Monday leading to the Sunday of the Holy Cross</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>EPHESIANS 4:25-32</string>
+      <key>gospel</key>
+      <string>MATTHEW 5:42-48</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Cyril, Archbishop of Jerusalem (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Tuesday leading to the Sunday of the Holy Cross</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 2:12-16</string>
+      <key>gospel</key>
+      <string>MATTHEW 10:32-38; 19:27-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Chrysanthus and Daria (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Wednesday leading to the Sunday of the Holy Cross</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>EPHESIANS 4:1-7</string>
+      <key>gospel</key>
+      <string>MATTHEW 7:1-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Fathers Martyred by the Saracens at the Monastery of St. Sabas in Palestine in the year 796 (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Thursday leading to the Sunday of the Holy Cross</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 3:4-11</string>
+      <key>gospel</key>
+      <string>MATTHEW 7:24-29; 8:1-4</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father James, Bishop of Catania, Confessor (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Friday leading to the Sunday of the Holy Cross</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>EPHESIANS 5:1-8</string>
+      <key>gospel</key>
+      <string>MATTHEW 6:22-33</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Basil, Priest of the church of Ancyra (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Saturday leading to the Sunday of the Holy Cross</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>HEBREWS 10:32-38</string>
+      <key>gospel</key>
+      <string>MARK 2:14-17</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Nikon and his two hundred pupils (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Sunday of the Holy Cross</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 4:14-16; 5:1-6</string>
+      <key>gospel</key>
+      <string>MARK 8:34-38; 9:1</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Preparation of the Feast of the Annunciation - Commemoration of our Holy Father Zachary the Recluse (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Monday leading to the Sunday of our Father John Climacus</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 2:5-11</string>
+      <key>gospel</key>
+      <string>MATTHEW 13:10-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Annunciation of the Most Holy Mother of God and Ever-Virgin Mary (Class 2)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Tuesday leading to the Sunday of our Father John Climacus</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 2:11-18</string>
+      <key>gospel</key>
+      <string>LUKE 1:24-38</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Leave-taking of the Feast of the Annunciation - Synaxis in honor of the Archangel Gabriel (Class 4)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Wednesday leading to the Sunday of our Father John Climacus</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>GALATIANS 2:16-20</string>
+      <key>gospel</key>
+      <string>MATTHEW 9:18-26</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Venerable Mother Matrona of Salonica (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Thursday leading to the Sunday of our Father John Climacus</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>GALATIANS 5:22-26; 6:1-2</string>
+      <key>gospel</key>
+      <string>MATTHEW 25:14-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Fathers Stephen the Wonderworker and Hilarion the Younger (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Friday leading to the Sunday of our Father John Climacus</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>2 TIMOTHY 3:10-15</string>
+      <key>gospel</key>
+      <string>MATTHEW 25:1-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Mark, Bishop of Amethusa, his Deacon Cyril and their companions who died under Emperor Julian the Apostate in the year 362 (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Saturday leading to the Sunday of our Father John Climacus</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 6:9-12</string>
+      <key>gospel</key>
+      <string>MARK 7:31-37</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father John Climacus (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Sunday of our Father John Climacos</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>HEBREWS 6:13-20</string>
+      <key>gospel</key>
+      <string>MARK 9:17-31</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Hypatius the Wonderworker, Bishop of Gangra (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Monday leading to the Sunday of Mary of Egypt</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>ROMANS 12:1-3</string>
+      <key>gospel</key>
+      <string>LUKE 6:31-36</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Venerable Mother Mary the Egyptian (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Tuesday leading to the Sunday of Mary of Egypt</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>EPHESIANS 4:14-17</string>
+      <key>gospel</key>
+      <string>LUKE 6:24-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Titus the Wonderworker (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Wednesday leading to the Sunday of Mary of Egypt</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>EPHESIANS 4:17-25</string>
+      <key>gospel</key>
+      <string>LUKE 7:36-50</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father, the Confessor Nicetas, Abbot of the Monastery of Medicium (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Thursday of Repentance</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>EPHESIANS 4:25-32</string>
+      <key>gospel</key>
+      <string>LUKE 13:1-9</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Theodule and Agatdhopode and of our Holy Fathers George of Maleum and Joseph the Hymnographer (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Friday leading to the Sunday of Mary of Egypt</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 5:10-15</string>
+      <key>gospel</key>
+      <string>LUKE 12:42-48</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Claudius, Diodorus, Victor, Pappius, Nicephorus and Serapion (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Saturday of the Acathist Hymn</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>HEBREWS 9:24-28</string>
+      <key>gospel</key>
+      <string>MARK 8:27-31</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Eutychios, Archbishop of Constantinople (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Sunday of Mary of Egypt</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>HEBREWS 9:11-14</string>
+      <key>gospel</key>
+      <string>MARK 10:32-45</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Kalliopos and of our Holy Father George, Bishop of Melitene (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Monday leading to the Sunday of Palm</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 3:12-16</string>
+      <key>gospel</key>
+      <string>LUKE 11:34-41</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostles Herodion, Agabus, Rufus, Asyncritus, Phlegon and Hermes, who were among the Seventy (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Tuesday leading to the Sunday of Palm</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 THESSALONIANS 5:14-23</string>
+      <key>gospel</key>
+      <string>MARK 8:30-34</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Eupsichius of Caesarea (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Wednesday leading to the Sunday of Palm</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>EPHESIANS 4:7-13</string>
+      <key>gospel</key>
+      <string>LUKE 12:16-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Terence, Pompeius, Maximus and their companions (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Thursday leading to the Sunday of Palm</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>GALATIANS 4:4-7</string>
+      <key>gospel</key>
+      <string>LUKE 18:18-27</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Antipas, Bishop of Pergamum in Asia (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Friday leading to the Sunday of Palm</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>EPHESIANS 2:4-10</string>
+      <key>gospel</key>
+      <string>JOHN 8:21-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Memory of our venerable Father and Confessor Basil, Bishop of Parios (Iconoclastic epoch) (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Saturday of Lazarus (Class 1)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>HEBREWS 12:28-29; 13:1-8</string>
+      <key>gospel</key>
+      <string>JOHN 11:1-45</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father the Confessor Martin, Pope of Rome (Class 5)</string>
+      <key>note</key>
+      <string>Triodion (Period of the Three Odes) - Great Lent *** Sunday of Palm (Class 1)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 4:4-9</string>
+      <key>gospel</key>
+      <string>JOHN 12:1-18</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Disciples Aristarchus, Pudeus and Trophimus, who were among the Seventy (Class 5)</string>
+      <key>note</key>
+      <string>Holy Week *** Great and Holy Monday</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>ACTS 10:34-43</string>
+      <key>gospel</key>
+      <string>MATTHEW 24:3-35</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Crescent (Class 5)</string>
+      <key>note</key>
+      <string>Holy Week *** Great and Holy Tuesday</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>EPHESIANS 1:1-9</string>
+      <key>gospel</key>
+      <string>MATTHEW 24:36-51; 25:1-46; 26:1-2</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Women Martyrs Agapia, Irene and Chionia (Class 5)</string>
+      <key>note</key>
+      <string>Holy Week *** Great and Holy Wednesday</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 2:6-9</string>
+      <key>gospel</key>
+      <string>MATTHEW 26:6-16</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Simeon the Persian and his companions and of our Holy Father Acacius, Bishop of Melitene (Class 5)</string>
+      <key>note</key>
+      <string>Holy Week *** Great and Holy Thursday (Class 1)</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 11:23-32</string>
+      <key>gospel</key>
+      <string>MATTHEW 26:1-20</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father John, Disciple of Gregory the Decapolitan (Class 5)</string>
+      <key>note</key>
+      <string>Holy Week *** Great and Holy Friday (Class 1)</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 15:47-58</string>
+      <key>gospel</key>
+      <string>JOHN 6:48-55</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Paphnutius and of our Holy Father John the Hermit (Class 5)</string>
+      <key>note</key>
+      <string>Holy Week *** Great and Holy Saturday (Class 1)</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat, meat products, and Dairy products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>ROMANS 6:3-11</string>
+      <key>gospel</key>
+      <string>MATTHEW 28:1-20</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Theodore Trichinas (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Holy Resurrection (Class 1)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>0</string>
+      <key>epistle</key>
+      <string>ACTS 1:1-8</string>
+      <key>gospel</key>
+      <string>JOHN 1:1-17</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Januarius and his companions and of the Holy Hieromartyr Theodore of Pergia (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Monday of the New week</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>0</string>
+      <key>epistle</key>
+      <string>ACTS 1:12-17; 21-26</string>
+      <key>gospel</key>
+      <string>JOHN 1:18-28</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Theodore Sykeotes, Bishop of Anastasiopolis (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Tuesday of the New week</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>0</string>
+      <key>epistle</key>
+      <string>ACTS 2:14-21</string>
+      <key>gospel</key>
+      <string>LUKE 24:12-35</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Great-Martyr George the Triumphant (Class 3)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Wednesday of the New week</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>0</string>
+      <key>epistle</key>
+      <string>GALATIANS 3:23-29; 4:1-5</string>
+      <key>gospel</key>
+      <string>JOHN 1:35-51</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Venerable Mother Elizabeth the Wonderworker and of the Holy Martyr Sabas the Goth (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Thursday of the New week</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>0</string>
+      <key>epistle</key>
+      <string>ACTS 2:38-43</string>
+      <key>gospel</key>
+      <string>JOHN 3:1-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostle Mark the Evangelist (Class 4)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Friday of the New week</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>0</string>
+      <key>epistle</key>
+      <string>ACTS 3:1-8</string>
+      <key>gospel</key>
+      <string>LUKE 10:16-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Basil, Bishop of Amasia (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>0</string>
+      <key>epistle</key>
+      <string>GALATIANS 3:23-29; 4:1-5</string>
+      <key>gospel</key>
+      <string>JOHN 15:17-27; 16:1-2</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Simeon, cousin of the Lord, and of our Holy Father Stephen, Bishop of Vladimir in Volynia. (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Sunday of St. Thomas (Class 1)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ACTS 5:12-20</string>
+      <key>gospel</key>
+      <string>JOHN 20:19-31</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of of the Holy Disciples Jason and Sosipater, who were among the Seventy and of our Father among the Saints Cyril, Bishop of Turov. (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Monday of St. Thomas</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ACTS 3:19-26</string>
+      <key>gospel</key>
+      <string>JOHN 2:1-11</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs of Cyzica and of the holy Memnon the Wonderworker (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Tuesday of St. Thomas</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ACTS 4:1-10</string>
+      <key>gospel</key>
+      <string>JOHN 3:16-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostle James, Brother of John the Evangelist (Class 4)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Wednesday of St. Thomas</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ACTS 4:13-22</string>
+      <key>gospel</key>
+      <string>JOHN 5:17-24</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Jeremias (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Thursday of St. Thomas</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ACTS 4:23-31</string>
+      <key>gospel</key>
+      <string>JOHN 5:24-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Transfer of the Remains of our Father among the Saints Athanasius the Great (Class 4)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Friday of St. Thomas</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>HEBREWS 13:7-16</string>
+      <key>gospel</key>
+      <string>MATTHEW 5:14-19</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Timothy and Maura (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>5:6-14</string>
+      <key>gospel</key>
+      <string>LUKE 10:16-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Woman Martyr Pelagia (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Sunday of Ointment-Bearing Women</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>ACTS 6:1-7</string>
+      <key>gospel</key>
+      <string>MARK 15:43-47; 16:1-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy and Great Martyr Irene (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Monday of the Ointment-bearing Women</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>ACTS 6:8-15; 7:1-5; 47-60</string>
+      <key>gospel</key>
+      <string>JOHN 4:46-54</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of Job, the Holy and Long-suffering One (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Tuesday of the Ointment-bearing Women</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>ACTS 8:5-17</string>
+      <key>gospel</key>
+      <string>JOHN 6:27-33</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Apparition of the Sign of the Cross over Jerusalem during the Reign of Emperor Constantius, Son of Constantine the Great (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Wednesday of the Ointment-bearing Women</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>ACTS 8:18-25</string>
+      <key>gospel</key>
+      <string>JOHN 6:35-39</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy, Glorious and Illustrious Apostle and Evangelist John the Theologian, and of our Holy Father Arsenios the Great (Class 3)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Thursday of the Ointment-bearing Women</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>1 JOHN 1:1-7</string>
+      <key>gospel</key>
+      <string>JOHN 19:25-27; 21:24-25</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Isaiah and of the Holy Martyr Christopher (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Friday of the Ointment-bearing Women</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>ACTS 8:40; 9:1-19</string>
+      <key>gospel</key>
+      <string>JOHN 6:48-54</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostle Simon the Zealot (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Saturday of the Ointment-bearing Women</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>ACTS 9:19-31</string>
+      <key>gospel</key>
+      <string>JOHN 15:17-27; 16:1-2</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Foundation or Dedication of the City of Constantinople - Commemoration of the Holy Martyr Mocius and of the Holy Cyril and Methodius, the Equals of the Apostles, the Apostles of the Slavs (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Sunday of Paralytic</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ACTS 9:32-42</string>
+      <key>gospel</key>
+      <string>JOHN 5:1-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Fathers Epiphanios, Bishop of Cyprus and Germanus the Hymnographer, Patriarch of Constantinople (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Monday of the Paralytic</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ACTS 10:1-16</string>
+      <key>gospel</key>
+      <string>JOHN 6:56-69</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Woman Martyr Glyceria (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Tuesday of the Paralytic</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ACTS 10:21-33</string>
+      <key>gospel</key>
+      <string>JOHN 7:1-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Isidore of Chio (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Mid-Easter (Class 1)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ACTS 14:6-18</string>
+      <key>gospel</key>
+      <string>JOHN 7:14-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Pachomios the Great and of our Father among the Saints Isaias, Bishop of Rostore (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Thursday following Mid-Easter</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ACTS 10:34-43</string>
+      <key>gospel</key>
+      <string>JOHN 8:12-20</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Theodore the Sanctified (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Friday following Mid-Easter</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ACTS 10:44-48; 11:1-10</string>
+      <key>gospel</key>
+      <string>JOHN 8:21-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostles Andronicus and Junias (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Saturday following Mid-Easter</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ACTS 12:1-11</string>
+      <key>gospel</key>
+      <string>JOHN 8:31-42</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Peter, Denis and their companions (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Sunday of the Samaritan Woman</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>ACTS 11:19-30</string>
+      <key>gospel</key>
+      <string>JOHN 4:5-42</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Patrick, Bishop of Prussa, and his companions (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Monday of the Samaritan Woman</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>ACTS 12:12-17</string>
+      <key>gospel</key>
+      <string>JOHN 8:42-51</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Thallelaius (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Tuesday of the Samaritan Woman</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>ACTS 12:25; 13:1-12</string>
+      <key>gospel</key>
+      <string>JOHN 8:51-59</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy and Glorious Sovereigns, the Equals of the Apostles Constantine and Helena (Class 3)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Leave-taking of Mid-Easter</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>ACTS 26:1; 12-20</string>
+      <key>gospel</key>
+      <string>JOHN 10:1-9</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Basiliscus (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Thursday of the Samaritan Woman</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>ACTS 14:20-28; 15:1-4</string>
+      <key>gospel</key>
+      <string>JOHN 9:39-41; 10:1-9</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Michael the Confessor, Metropolitan of Synades and of our Venerable Mother Euphrosyne of Polotsk (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Friday of the Samaritan Woman</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>ACTS 15:5-12</string>
+      <key>gospel</key>
+      <string>JOHN 10:17-28</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Simeon the Younger (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Saturday of the Samaritan Woman</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>ACTS 15:35-41</string>
+      <key>gospel</key>
+      <string>JOHN 10:27-38</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Third Finding of the Head of the Forerunner, John the Baptist (Class 3)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Sunday of the Man Born Blind</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 4:6-15</string>
+      <key>gospel</key>
+      <string>JOHN 9:1-38</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostle Carpus, one of the Seventy (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Monday of the Blind Man</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>ACTS 17:1-9</string>
+      <key>gospel</key>
+      <string>JOHN 11:47-54</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Alladius (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Preparation of the Ascension</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>ACTS 17:19-28</string>
+      <key>gospel</key>
+      <string>JOHN 12:19-36</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Eutyches (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Leave-taking of Easter</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>ACTS 18:22-28</string>
+      <key>gospel</key>
+      <string>JOHN 12:36-47</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Venerable Woman Martyr, the Virgin Theodosia (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Feast of the Ascension (Class 1)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>ACTS 1:1-12</string>
+      <key>gospel</key>
+      <string>LUKE 24:36-53</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Isaac, Abbot of the Monastery of Dalmatia (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 2nd. Day of the Ascension</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>ACTS 19:1-8</string>
+      <key>gospel</key>
+      <string>JOHN 14:1-11</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Hermios (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 3rd. Day of the Ascension</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>ACTS 20:7-12</string>
+      <key>gospel</key>
+      <string>JOHN 14:10-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Justin the Philosopher and his companions (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 4th. Day of the Ascension * Sunday of the Fathers of Nicea I (Class 3)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>ACTS 20:16-18; 27-36</string>
+      <key>gospel</key>
+      <string>JOHN 17:1-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Nicephoros the Confessor, Archbishop of Constantinople (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 5th. Day of the Ascension</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>ACTS 21:8-14</string>
+      <key>gospel</key>
+      <string>JOHN 14:27-31; 15:1-7</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Lucillian and his companions (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 6th. Day of the Ascension</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>ACTS 21:26-32</string>
+      <key>gospel</key>
+      <string>JOHN 16:2-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Metrophanes, Bishop of Constantinople (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 7th. Day of the Ascension</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>ACTS 23:1-11</string>
+      <key>gospel</key>
+      <string>JOHN 16:15-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Dorotheos, Bishop of Tyre (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 8th. Day of the Ascension</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>ACTS 25:13-19</string>
+      <key>gospel</key>
+      <string>JOHN 16:23-33</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Fathers Bessarion the Wonderworker and Hilarion the Younger, Abbot of the Dalmatos Monastery (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Leave-taking of the Ascension</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>ACTS 27:1-44; 28:1</string>
+      <key>gospel</key>
+      <string>JOHN 17:1; 7:18-26</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Theodotos, Bishop of Ancyra. (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Saturday of the Dead</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>ACTS 28:1-31</string>
+      <key>gospel</key>
+      <string>JOHN 21:14-25</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Transfer of the Remains of the Holy and Great-martyr Theodore, General of the Armies (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Sunday of Pentecost (Class 1)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>ACTS 2:1-11</string>
+      <key>gospel</key>
+      <string>JOHN 7:37-52; 8:12</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Cryil, Archbishop of Alexandria (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Monday of the Holy Spirit</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>EPHESIANS 5:8-19</string>
+      <key>gospel</key>
+      <string>MATTHEW 18:10-20</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Alexander and Antonina and of the Holy Hieromartyr Timothy, Bishop of Prussa (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 3rd. Day of Pentecost</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>ROMANS 1:1-7; 13-17</string>
+      <key>gospel</key>
+      <string>MATTHEW 4:25; 5:1-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostles Bartholomew and Barnabas (Class 4)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 4th. Day of Pentecost</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>ROMANS 1:18-27</string>
+      <key>gospel</key>
+      <string>MATTHEW 5:20-26</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Fathers Onuphrius and Peter of Athos (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 5th. Day of Pentecost</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>ROMANS 1:28-32; 2:1-9</string>
+      <key>gospel</key>
+      <string>MATTHEW 5:27-32</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Woman Martyr Aquilina and of our Holy Father Truphillios, Bishop of Leucosia (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 6th. Day of Pentecost</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>ROMANS 2:14-28</string>
+      <key>gospel</key>
+      <string>MATTHEW 5:33-41</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Elisae and of our Father among the Saints Methodius, Archbishop of Constantinople (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Leave-taking of Pentecost (Class 1)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>ROMANS 1:7-12</string>
+      <key>gospel</key>
+      <string>MATTHEW 5:42-48</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Amos and of our Holy Father Jerome, the Hermit of Bethlehem (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Sunday of All Saints</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>HEBREWS 11:33-40; 12:1-2</string>
+      <key>gospel</key>
+      <string>MATTHEW 10:32-38; 19:27-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Tychon the Wonderworker, Bishop of Amathonte of Cyprus (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 1st. Day of the Preparation of the Feast of the Divine Body</string>
+      <key>fasting</key>
+      <string>Beginning of the Apostles's Fast according to the ancient discipline</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>ROMANS 2:28-29; 3:1-18</string>
+      <key>gospel</key>
+      <string>MATTHEW 6:31-34; 7:9-11</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Manuel, Sabel and Ismeal (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 2nd. Day of the Preparation of the Feast of the Divine Body</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>ROMANS 4:4-12</string>
+      <key>gospel</key>
+      <string>MATTHEW 7:15-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Leontios (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 3rd. Day of the Preparation of the Feast of the Divine Body</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>ROMANS 4:13-25</string>
+      <key>gospel</key>
+      <string>MATTHEW 7:21-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostle Jude, the Brother of the Lord (Class 4)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Feast of the Divine Body (Class 1)</string>
+      <key>fasting</key>
+      <string>Beginning of the Apostles's Fast according to the Melkite Usage - Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 11:23-32</string>
+      <key>gospel</key>
+      <string>JOHN 6:48-55</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Methodius of Patara (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 2nd. Day of the Divine Body</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>ROMANS 5:17-21; 6:1-2</string>
+      <key>gospel</key>
+      <string>MATTHEW 9:14-17</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Julian of Tarsus (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 3rd. Day of the Divine Body</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>ROMANS 3:19-26</string>
+      <key>gospel</key>
+      <string>MATTHEW 7:1-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Eusebios, Bishop of Samosate (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Second Week after Pentecost - The call of the First Apostle</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ROMANS 2:10-16</string>
+      <key>gospel</key>
+      <string>MATTHEW 4:18-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Visitation of the Theotokos to her Cousin Elizabeth and commemoration of the Holy Woman Martyr Agrippina (Class 3)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 5th. Day of the Divine Body</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>GALATIANS 4:4-7</string>
+      <key>gospel</key>
+      <string>LUKE 1:29-45</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the nativity of the Honorable and Glorious Prophet and Forerunner John the Baptist (Class 3)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 6th. Day of the Divine Body</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ROMANS 13:11-14; 14:1-4</string>
+      <key>gospel</key>
+      <string>LUKE 1:1-25; 57-68; 76-80</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Woman Marty Febronia (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** 7th. Day of the Divine Body</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ROMANS 8:2-13</string>
+      <key>gospel</key>
+      <string>MATTHEW 10:16-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Father David of Thessalonica (Class 5)</string>
+      <key>note</key>
+      <string>Pentecostarion *** Leave-taking of the Divine Body</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ROMANS 8:22-27</string>
+      <key>gospel</key>
+      <string>MATTHEW 10:23-31</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Samson the Hosteler (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ROMANS 9:6-19</string>
+      <key>gospel</key>
+      <string>MATTHEW 10:32-42; 11:1</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Transfer of the Remains of the Holy Physicians Cyrus and John (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>ROMANS 3:28-31; 4:1-3</string>
+      <key>gospel</key>
+      <string>MATTHEW 7:24-29; 8:1-4</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy, Glorious and Illustrious Princes of the Apostles Peter and Paul (Class 3)</string>
+      <key>note</key>
+      <string>Third Sunday After Pentecost - The Light of the Body, God and Money, Dependence on God</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 11:21-33; 12:1-9</string>
+      <key>gospel</key>
+      <string>MATTHEW 16:13-19</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Synaxis in honor of the Holy and Glorious Twelve Apostles, worthy of all praise (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 4:9-16</string>
+      <key>gospel</key>
+      <string>MATTHEW 9:36-38; 10:1-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Wonderworkers Cosmas and Damian (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 12:27-31; 13:1-7</string>
+      <key>gospel</key>
+      <string>MATTHEW 10:1; 5-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Deposition of the Honorable Mantle of Our Lady, the Mother of God, at Blachernae (Class 4)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>HEBREWS 9:1-7</string>
+      <key>gospel</key>
+      <string>LUKE 1:39-49; 56</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Hyacinth and of our Holy Father Anatolius, Patriarch of Constantinople (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>ROMANS 11:13-24</string>
+      <key>gospel</key>
+      <string>MATTHEW 11:27-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Andrew of Crete, the Jerusalymitan (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>ROMANS 11:25-36</string>
+      <key>gospel</key>
+      <string>MATTHEW 12:1-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Athanasius of Athos, of the Holy Wonderworker Lampadios and of the Holy Woman Martha, mother of Simeon the Hermit (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>ROMANS 6:11-17</string>
+      <key>gospel</key>
+      <string>MATTHEW 8:14-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Sisoe the Great (Class 5)</string>
+      <key>note</key>
+      <string>Fourth Sunday After Pentecost - The Centurion's servant</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ROMANS 6:18-23</string>
+      <key>gospel</key>
+      <string>MATTHEW 8:5-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Fathers Thomas of Maleum, Akakios, mentioned in the 'Ladder', and of the Holy and Great Woman Martyr Kyriake (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ROMANS 12:4-5; 15-21</string>
+      <key>gospel</key>
+      <string>MATTHEW 12:9-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Great-martyr Procopius (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ROMANS 14:9-18</string>
+      <key>gospel</key>
+      <string>MATTHEW 12:14-16; 22-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Pancratios, Bishop of Taormina in Sicily (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ROMANS 15:7-16</string>
+      <key>gospel</key>
+      <string>MATTHEW 12:38-45</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Forty-five Holy Martyrs of Nicopolis in Armenia (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ROMANS 15:17-29</string>
+      <key>gospel</key>
+      <string>MATTHEW 12:46-50; 13:1-3</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy and Illustrious Woman, the Great-martyr Euphemia (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ROMANS 16:1-16</string>
+      <key>gospel</key>
+      <string>MATTHEW 13:3-9</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Proclus and Hilarion (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ROMANS 8:14-21</string>
+      <key>gospel</key>
+      <string>MATTHEW 9:9-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Synaxis of the Archangel Gabriel - Commemoration of our Holy Father Stephen the Sabite (Class 5)</string>
+      <key>note</key>
+      <string>Sunday of the Fathers of the First Six Ecumenical Councils</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>TITUS 3:8-15</string>
+      <key>gospel</key>
+      <string>MATTHEW 5:14-19</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostle Aquila (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>ROMANS 16:17-24</string>
+      <key>gospel</key>
+      <string>MATTHEW 13:10-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Cyricus and his mother Julitta, of the Holy Equal-of-the-Apostles Vladimir the Grad Prince, baptized under the name of Basil (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 1:1-9</string>
+      <key>gospel</key>
+      <string>MATTHEW 13:24-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Athenogenes and his ten disciples (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 2:9-16; 3:1-8</string>
+      <key>gospel</key>
+      <string>MATTHEW 13:31-36</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Great Woman Martyr Marina (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 3:18-23</string>
+      <key>gospel</key>
+      <string>MATTHEW 13:36-43</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Emilian (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 4:5-8</string>
+      <key>gospel</key>
+      <string>MATTHEW 13:44-54</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Venerable Mother Macrina, Sister of Basil the Great and of our Holy Father Dios (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>ROMANS 9:1-5</string>
+      <key>gospel</key>
+      <string>MATTHEW 9:18-26</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Elias the Thesbite (Class 3)</string>
+      <key>note</key>
+      <string>Sixth Sunday After Pentecost - Healing of the Paralytic</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>JAMES 5:10-20</string>
+      <key>gospel</key>
+      <string>MATTHEW 9:1-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Fathers Simeon Salos, the Fool for the sake of Christ, and his companion John (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 5:9-13; 6:1-11</string>
+      <key>gospel</key>
+      <string>MATTHEW 13:54-58</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Perfume-bearing Woman Mary Magdalen, the Equal of the Apostles (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 6:20; 7:1-12</string>
+      <key>gospel</key>
+      <string>MATTHEW 14:1-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Transfer of the Remains of the Holy Hieromartyr Phocas - Commemoration of the Holy Prophet Ezekiel (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 7:12-24</string>
+      <key>gospel</key>
+      <string>MATTHEW 14:35-36; 15:1-11</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Woman and Great-martyr Christina (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 7:24-35</string>
+      <key>gospel</key>
+      <string>MATTHEW 15:12-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Dormition of the Holy Anne, the Mother of the Mother of God (Class 3)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>GALATIANS 4:22-27</string>
+      <key>gospel</key>
+      <string>LUKE 8:16-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Hermolaus and his two companions - and of the Holy Woman Martyr Paraskevia (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>ROMANS 12:1-3</string>
+      <key>gospel</key>
+      <string>MATTHEW 10:37-42; 11:1</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of of the Holy Great-Martyr Panteleimon the Physician, and of our Father among the Saints Clement the Wonderworker, Archbishop of Ochrida (Class 3)</string>
+      <key>note</key>
+      <string>Seventh Sunday After Pentecost - Healing of the two Blind men</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>2 TIMOTHY 2:1-10</string>
+      <key>gospel</key>
+      <string>MATTHEW 9:27-35</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostles the Deacons Prochor, Nicanor, Timon and Parmenas (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 9:13-18</string>
+      <key>gospel</key>
+      <string>MATTHEW 16:1-6</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Callinicus and of the Holy Woman Martyr Theodota (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 10:5-12</string>
+      <key>gospel</key>
+      <string>MATTHEW 16:6-12</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostles Silas and Silvan and their companions, who were among the Seventy (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 10:12-22</string>
+      <key>gospel</key>
+      <string>MATTHEW 16:20-24</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy and Just Eudocimus: Vigil of the Feast of the Procession of the Holy and Vivifying Cross (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 10:28-33; 11:1-8</string>
+      <key>gospel</key>
+      <string>MATTHEW 16:24-28</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Procession of the Honorable and Life-giving Cross - Commemoration of the Seven Holy Macchabees, their mother Salome and their Instructor, the Elder Eleazar (Class 4)</string>
+      <key>fasting</key>
+      <string>Beginning of the Theotokos' Fast - Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>HEBREWS 11:33-40; 12:1-2</string>
+      <key>gospel</key>
+      <string>MATTHEW 10:16-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Transfer of the Remains of the Holy Protomartyr the Archdeacon Stephen (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>ROMANS 13:1-10</string>
+      <key>gospel</key>
+      <string>MATTHEW 12:30-37</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Fathers Isaac, Dalmatios and Faustos (Class 5)</string>
+      <key>note</key>
+      <string>Eighth Sunday After Pentecost - Feeding the five thousand</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 1:10-17</string>
+      <key>gospel</key>
+      <string>MATTHEW 14:14-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Seven Holy Youths of Ephesus and of the Holy Woman Martyr Eudocia (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 11:31-34; 12:1-6</string>
+      <key>gospel</key>
+      <string>MATTHEW 18:1-11</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Preparation of the Feast of the Transfiguration - Commemoration of the Holy Martyr Eusignios (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 12:12-26</string>
+      <key>gospel</key>
+      <string>MATTHEW 18:18-22; 19:1-2; 13-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Holy Transfiguration of our Lord, God and Saviour Jesus Christ (Class 1)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>2 PETER 1:10-19</string>
+      <key>gospel</key>
+      <string>MATTHEW 17:1-9</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>2nd Day of Celebration of the Transfiguration - Commemoration of the Holy Martyr Dometios (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 14:6-19</string>
+      <key>gospel</key>
+      <string>MATTHEW 20:17-28</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>3rd Day of Celebration of the Transfiguration - Commemoration of the Holy Confessor Emillian, Bishop of Cyrica (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 14:26-40</string>
+      <key>gospel</key>
+      <string>MATTHEW 21:12-14; 17-20</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>4th Day of Celebration of the Transfiguration - Commemoration of the Holy Apostle Matthias (Class 4)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>ROMANS 14:6-9</string>
+      <key>gospel</key>
+      <string>MATTHEW 15:32-39</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>5th Day of Celebration of the Transfiguration - Commemoration of the Holy Martyr, the Archdeacon Lawrence (Class 5)</string>
+      <key>note</key>
+      <string>Ninth Sunday After Pentecost - Walking on Water</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 3:9-17</string>
+      <key>gospel</key>
+      <string>MATTHEW 14:22-34</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>6th Day of Celebration of the Transfiguration - Commemoration of the Holy Martyr Eupolos the Deacon (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 15:12-19</string>
+      <key>gospel</key>
+      <string>MATTHEW 21:18-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>7th Day of Celebration of the Transfiguration - Commemoration of the Holy Martyrs Photios and Anicetos (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 15:29-38</string>
+      <key>gospel</key>
+      <string>MATTHEW 21:23-27</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Leave-taking of the Feast of the Transfiguration - transfer of the remains of the Holy Maximos the Confessor (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 16:4-12</string>
+      <key>gospel</key>
+      <string>MATTHEW 21:28-32</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Vigil of the Feast of the Dormition of the Most Holy Mother of God - Commemoration of the Holy Prophet Micah (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 1:1-7</string>
+      <key>gospel</key>
+      <string>MATTHEW 21:43-46</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Dormition of our Lady the Most Holy Mother of God, and of her Assumption (Class 2)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 2:5-11</string>
+      <key>gospel</key>
+      <string>LUKE 10:38-42; 11:27-28</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>2nd Day of Celebration of the Dormition - transfer of the Icon of the Holy Veil of our Lord, God and Savior Jesus Christ - Commemoration of the Holy Martyr Diomedes (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 TIMOTHY 3:13-16; 4:1-5</string>
+      <key>gospel</key>
+      <string>LUKE 9:51-56; 10:22-24; 13:22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>3rd Day of Celebration of the Dormition - Commemoration of the Holy Martyr Myron (Class 5)</string>
+      <key>note</key>
+      <string>Tenth Sunday After Pentecost - Healing the Epileptic Boy</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 4:9-16</string>
+      <key>gospel</key>
+      <string>MATTHEW 17:14-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>4th Day of Celebration of the Dormition - Commemoration of the Holy Martyrs Floros and Lauros (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 2:3-15</string>
+      <key>gospel</key>
+      <string>MATTHEW 23:13-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>5th Day of Celebration of the Dormition - Commemoration of the Holy Martyrs Andrew the Centurion and his two thousand five hundred and ninety-three companions (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 2:14-17; 3:1-3</string>
+      <key>gospel</key>
+      <string>MATTHEW 23:23-28</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>6th Day of Celebration of the Dormition - Commemoration of the Holy Prophet Samuel (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 3:4-11</string>
+      <key>gospel</key>
+      <string>MATTHEW 23:29-39</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>7th Day of Celebration of the Dormition - Commemoration of the Holy Apostle Thaddeus and of the Holy Woman Martyr Bassa and her children (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 4:1-12</string>
+      <key>gospel</key>
+      <string>MATTHEW 24:13-28</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>8th Day of Celebration of the Dormition - Commemoration of the Holy Martyrs Agathonicos and his companions (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 4:13-18</string>
+      <key>gospel</key>
+      <string>MATTHEW 24:27-33; 42-51</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Leave-taking of the Feast of the Dormition of our Blessed Lady the Mother of God - Commemoration of the Holy Martyr Luppus and of the Holy Hieromartyr Irenaeus, Bishop of Lyons (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 1:3-9</string>
+      <key>gospel</key>
+      <string>MATTHEW 19:3-12</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Eutyches, Disciple of Saint John the Theologian (Class 5)</string>
+      <key>note</key>
+      <string>Eleventh Sunday After Pentecost - The unforgiving Servant</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 9:2-12</string>
+      <key>gospel</key>
+      <string>MATTHEW 18:23-35</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Transfer of the remains of the Holy Apostle Bartholomew - Commemoration of the Holy Apostle Titus (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 5:10-15</string>
+      <key>gospel</key>
+      <string>MARK 1:9-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Adrian and his wife Natalia. Blessed Mary Bawardy.  (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 5:15-21</string>
+      <key>gospel</key>
+      <string>MARK 1:16-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Poemen (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 6:11-16</string>
+      <key>gospel</key>
+      <string>MARK 1:23-28</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Moses the Abyssinian, and of our Father among the Saints Augustine, Bishop of Hippo and Doctor of the Universal Church (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 7:1-10</string>
+      <key>gospel</key>
+      <string>MARK 1:29-35</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Beheading of the Honorable and Glorious Prophet and Forerunner John the Baptist (Class 3)</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>ACTS 13:25-33</string>
+      <key>gospel</key>
+      <string>MARK 6:14-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Fathers among the Saints Alexander, John and Paul the Latter, Archbishops of Constantinople (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 1:26-31; 2:1-5</string>
+      <key>gospel</key>
+      <string>MATTHEW 20:29-34</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Deposition of the Honorable Cincture of our Most Holy Lady the Mother Of God, in Calcoprateia (Class 4)</string>
+      <key>note</key>
+      <string>Twelfth Sunday After Pentecost - The Rich young man</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 9:1-7</string>
+      <key>gospel</key>
+      <string>MATTHEW 19:16-26</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Beginning of the New Year and of the Indiction - Commemoration of our Holy Father Simeon Stylite - Synaxis of the Most Holy Mother of God, venerated in her icon on Miasenes - The Holy Martyr Aeithalas, the Forty Holy Women martyred with their instructor Ammon the Deacon, the Three Brothers and Holy Martyrs Callistos, Evod and Hermogenes, and the Just Joshua son of Nun (Class 3)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>1 TIMOTHY 2:1-7</string>
+      <key>gospel</key>
+      <string>LUKE 4:16-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Mammas - Our Father among the Saints John the Faster, Patriarch of Constantinople (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 8:16-24; 9:1-5</string>
+      <key>gospel</key>
+      <string>MARK 3:13-19</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Anthimos, Bishop of Nicomedia - our Holy Father Theoctistos, companion in ascetisism of Euthymius the Great (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 9:12-15; 10:1-7</string>
+      <key>gospel</key>
+      <string>MARK 3:20-27</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Babylas Bishop of Antioch - the Holy Prophet Moses (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 10:7-18</string>
+      <key>gospel</key>
+      <string>MARK 3:28-35</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Zachariah, father of the Forerunner John the Baptist (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 11:5-21</string>
+      <key>gospel</key>
+      <string>MARK 4:1-9</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>The miracle performed by the Archangel Michael at Colossus, later called Chone (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 2:2-10</string>
+      <key>gospel</key>
+      <string>LUKE 10:16-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Preparations of the Feast of the nativity of the Most Holy Mother of God - Commemoration of the Holy Martyr Sozon (Class 5)</string>
+      <key>note</key>
+      <string>Sunday Before the Holy Cross</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>GALATIANS 6:11-18</string>
+      <key>gospel</key>
+      <string>JOHN 3:13-17</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Nativity of our most Holy Lady the Mother of God (Class 2)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 2:5-11</string>
+      <key>gospel</key>
+      <string>LUKE 10:38-42; 11:27-28</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>2nd Day of Celebration of the Nativity of the Most Holy Mother of God - Commemoration of the ancestors of Christ Joachim and Anne, and of the Holy Martyr Severian (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>GALATIANS 4:22-27</string>
+      <key>gospel</key>
+      <string>LUKE 8:16-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>3rd Day of Celebration of the Nativity of the Most Holy Mother of God - Commemoration of the Holy Martyrs Menodora, Metrodora and Nymphodora (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 13:3-13</string>
+      <key>gospel</key>
+      <string>MARK 4:35-41</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>4th Day of Celebration of the Nativity of the Most Holy Mother of God - Commemoration of our Holy Mother Theodora of Alexandria (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>GALATIANS 1:1-3; 20-24; 2:1-5</string>
+      <key>gospel</key>
+      <string>MARK 5:1-20</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Leave-taking of the Feast of the Nativity of the Most Holy Mother of God - Commemoration of the Holy Martyr Autonomos (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>GALATIANS 2:6-10</string>
+      <key>gospel</key>
+      <string>MARK 5:22-24; 35; 6:1</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Dedication of the Basilica of the Resurrection of Christ our God - Preparation of the Feast of the Exaltation of the Holy Cross - Commemoration of the Holy Hieromartyr Cornelius the Centurion (Class 3)</string>
+      <key>note</key>
+      <string>Saturday Before the Holy Cross</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>HEBREWS 3:1-6</string>
+      <key>gospel</key>
+      <string>JOHN 12:25-36</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Exaltation of the Precious and Life-giving Cross (Class 1)</string>
+      <key>note</key>
+      <string>Fourteenth Sunday After Pentecost - The King's Marriage Feast</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 1:18-24</string>
+      <key>gospel</key>
+      <string>JOHN 19:6-11; 13-20; 25-35</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>2nd Day of Celebration of the Exaltation of the Holy Cross - Commemoration of the Holy Martyr Nicetas (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>GALATIANS 2:11-16</string>
+      <key>gospel</key>
+      <string>MARK 5:24-34</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>3rd Day of Celebration of the Exaltation of the Holy Cross - Commemoration of the Holy Great-martyr and all-celebrated Euphemia (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 6:1-10</string>
+      <key>gospel</key>
+      <string>LUKE 7:36-50</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>4th Day of Celebration of the Exaltation of the Holy Cross - Commemoration of the Holy Martyr Sophie and of her three daughters, Faith, Hope and Charity (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>GALATIANS 3:15-22</string>
+      <key>gospel</key>
+      <string>MARK 6:7-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>5th Day of Celebration of the Exaltation of the Holy Cross - Commemoration of our Holy Father Eumenios the Wonderworker, Bishop of Gortyna in Crete (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>GALATIANS 3:23-29; 4:1-5</string>
+      <key>gospel</key>
+      <string>MARK 6:30-45</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>6th Day of Celebration of the Exaltation of the Holy Cross - Commemoration of the Holy Martyrs Trophimos, Sabbatios and Dorymedes (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>GALATIANS 4:8-21</string>
+      <key>gospel</key>
+      <string>MARK 6:45-53</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>7th Day of Celebration of the Exaltation of the Holy Cross - Commemoration of the Great-martyr Eustathios, his wife Theopista and their two children Agapios and Theopistos (Class 5)</string>
+      <key>note</key>
+      <string>Saturday After the Holy Cross</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 1:26-31; 2:1; 5</string>
+      <key>gospel</key>
+      <string>JOHN 8:21-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Leave-taking of the Feast of the Exaltation of the Holy Cross - Commemoration of the Holy Apostle Codratos of magnesia and Jonas the Prophet (Transferred to tomorrow).  (Class 5)</string>
+      <key>note</key>
+      <string>Sunday After the Holy Cross</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>GALATIANS 2:16-21</string>
+      <key>gospel</key>
+      <string>MARK 8:34-38; 9:1</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Phocas, Bishop of Sinope - Commemoration of the Holy Apostle Codratos of magnesia and Jonas the Prophet (Transferred from Yesterday).  (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>GALATIANS 4:28-31; 5:1-10</string>
+      <key>gospel</key>
+      <string>LUKE 3:19-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Conception by Elizabeth of the Honorable and Glorious Prophet, the Forerunner John the Baptist (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>GALATIANS 4:22-27</string>
+      <key>gospel</key>
+      <string>LUKE 1:5-25</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Protomartyr and Equal of the Apostles Thecla (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>GALATIANS 6:2-10</string>
+      <key>gospel</key>
+      <string>LUKE 4:1-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Venerable Mother Euphrosyne, and of our Holy Father among the Saints Sergius of Radonezh (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>EPHESIANS 1:1-9</string>
+      <key>gospel</key>
+      <string>LUKE 4:16-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Passing into eternal life of the glorious Apostle John the Theologian and Evangelist, worthy of all praise (Class 3)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 JOHN 4:12-19</string>
+      <key>gospel</key>
+      <string>JOHN 19:25-27; 21:24-25</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Callistratus and his companions (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 10:23-28</string>
+      <key>gospel</key>
+      <string>LUKE 4:31-36</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Chariton the Confessor and the Prophet Baruch (Class 5)</string>
+      <key>note</key>
+      <string>First Sunday After the Holy Cross - Miraculous Catch</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 6:1-10</string>
+      <key>gospel</key>
+      <string>LUKE 5:1-11</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Cyriakos the Anchorite (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>EPHESIANS 1:22-23; 2:1-3</string>
+      <key>gospel</key>
+      <string>LUKE 4:38-44</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Gregory, Bishop of Armenia (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>EPHESIANS 2:19-22; 3:1-7</string>
+      <key>gospel</key>
+      <string>LUKE 5:12-16</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Protection of the Mother of God (Established on August 23, 1975) and Commemoration of the Holy Apostle Ananias, one of the Seventy Disciples of the Lord, and of our Venerable Father Romanos the Melodist. (Class 3)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>HEBREWS 9:1-7</string>
+      <key>gospel</key>
+      <string>LUKE 10:38-42; 11:27-28</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Cyprian and of the Holy Virgin Martyr Justina (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>EPHESIANS 4:14-17</string>
+      <key>gospel</key>
+      <string>LUKE 6:12-19</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Dionysios the Areopagite (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>EPHESIANS 4:17-25</string>
+      <key>gospel</key>
+      <string>LUKE 6:17-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Hierotheos, Bishop of Athens (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 14:20-25</string>
+      <key>gospel</key>
+      <string>LUKE 5:17-26</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Woman Martyr Charitina (Class 5)</string>
+      <key>note</key>
+      <string>Second Sunday After the Holy Cross - Love your enemies</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 6:16-18; 7:1</string>
+      <key>gospel</key>
+      <string>LUKE 6:31-36</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy and Glorious Apostle Thomas (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 4:9-16</string>
+      <key>gospel</key>
+      <string>JOHN 20:19-31</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Sergius and Bacchus (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>EPHESIANS 5:20-25</string>
+      <key>gospel</key>
+      <string>LUKE 6:37-45</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Venerable Mother Pelagia (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>EPHESIANS 5:25-33</string>
+      <key>gospel</key>
+      <string>LUKE 6:46-49; 7:1</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostle James, son of Alpheus, of our Holy Father Andronikos and his wife Athanasia and of the Just Patriarch Abraham and his nephew Lot (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 4:9-16</string>
+      <key>gospel</key>
+      <string>MATTHEW 9:36-38; 10:1-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Eulampios and Eulampia (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>EPHESIANS 6:18-24</string>
+      <key>gospel</key>
+      <string>LUKE 7:31-35</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostle Philip, one of the Seven Deacons, and of our Venerable Father Theophane, Bishop of Nicea, called the Branded One or the Hymnographer (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 15:39-45</string>
+      <key>gospel</key>
+      <string>LUKE 5:27-32</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Probus, Tarachos and Andronicos and of the Venerable Father Symeon the New Theologian (Class 5)</string>
+      <key>note</key>
+      <string>Fourth Sunday After the Holy Cross - Fathers of the Second Council of Nicea (7th. Ecumenical Council)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>TITUS 3:8-15</string>
+      <key>gospel</key>
+      <string>LUKE 8:5-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Carpos, Papylas and Agathonicos (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 1:1-7</string>
+      <key>gospel</key>
+      <string>LUKE 7:36-50</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy martyrs Nazarios, Gervasios, Protasios and Celsios and of our Holy Father Cosmas the Poet, Bishop of Maiuma (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 1:8-14</string>
+      <key>gospel</key>
+      <string>LUKE 8:1-3</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Lucian, Priest of Antioch (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 1:12-19</string>
+      <key>gospel</key>
+      <string>LUKE 8:22-25</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Longinus the Centurion who stood at the foot of the Cross (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 1:20-27</string>
+      <key>gospel</key>
+      <string>LUKE 9:7-11</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Hosea and of the Holy Martyr Andrew of Crete (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 1:27-30; 2:1-4</string>
+      <key>gospel</key>
+      <string>LUKE 9:12-18</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostle Luke the Evangelist (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 4:5-11; 14-18</string>
+      <key>gospel</key>
+      <string>LUKE 10:16-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Joel and of the Holy Martyr Varus (Class 5)</string>
+      <key>note</key>
+      <string>Third Sunday After the Holy Cross - The Widow's son</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 11:31-33; 12:1-9</string>
+      <key>gospel</key>
+      <string>LUKE 7:11-16</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Great-Martyr Artemios (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 2:12-16</string>
+      <key>gospel</key>
+      <string>LUKE 9:18-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Venerable Father Hilarion (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 2:16-23</string>
+      <key>gospel</key>
+      <string>LUKE 9:23-27</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Averkios, the Equal of the Apostles, Bishop of Hieropolis, the Wonderworker, and of the Seven Holy Children martyred at Ephesus (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 2:24-30</string>
+      <key>gospel</key>
+      <string>LUKE 9:44-50</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr James, brother of the Lord, first Bishop of Jerusalem (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>GALATIANS 1:11-19</string>
+      <key>gospel</key>
+      <string>MATTHEW 13:54-58</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Great-martyr Arethas and his companions (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 3:8-19</string>
+      <key>gospel</key>
+      <string>LUKE 10:1-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Marcian and Martyrios, secretaries (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 1:8-11</string>
+      <key>gospel</key>
+      <string>LUKE 7:1-10</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy and Glorious Great-martyr Demetrios the Myroblite, and of the Great Earthquake (Class 3)</string>
+      <key>note</key>
+      <string>Sixth Sunday After the Holy Cross - Gerasene Demoniac</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>2 TIMOTHY 2:1-10</string>
+      <key>gospel</key>
+      <string>LUKE 8:27-39</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Nestor (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>PHILIPPIANS 4:10-23</string>
+      <key>gospel</key>
+      <string>LUKE 10:22-24</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Terence and Neonila and of our Venerable Father Stephen the Sabite, composer of Canons (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 1:1-11</string>
+      <key>gospel</key>
+      <string>LUKE 11:1-10</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Venerable Mother the Martyr Anastasia and of our Holy Father Abramios (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 1:18-23</string>
+      <key>gospel</key>
+      <string>LUKE 11:9-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Zenobios and of his sister Zenobia (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 1:24-29; 2:1</string>
+      <key>gospel</key>
+      <string>LUKE 11:14-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostles Stachys, Apelles, Amplias, Urban, Aristobulos and Marcissos, counted amoung the Lord's Seventy Disciples, and of the Holy Martyr Epimakios (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 2:1-7</string>
+      <key>gospel</key>
+      <string>LUKE 11:23-26</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs the Wonderworkers and Physicians Cosmas and Damian (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 12:27-31; 13:1-7</string>
+      <key>gospel</key>
+      <string>MATTHEW 10:1; 5-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Akindinos, Pegasios, Aphtonios, Elpidephor and Anempodisios (Class 5)</string>
+      <key>note</key>
+      <string>Fifth Sunday After the Holy Cross - The Rich Man and Lazarus</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>GALATIANS 2:16-20</string>
+      <key>gospel</key>
+      <string>LUKE 16:19-31</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Acepsimas, Joseph and Aeithalas - dedication of the Church of the Great-martyr George in Lydda where his relics are enshrined (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 2:13-20</string>
+      <key>gospel</key>
+      <string>LUKE 11:29-33</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Father Joannicios the Great, the Hermit of Mount Olympus - of the Holy Hieromartyr Nicander, Bishop of Myra and of Hermeus, a priest (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 2:20-23; 3:1-3</string>
+      <key>gospel</key>
+      <string>LUKE 11:34-41</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Galaction and his wife Episteme (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 3:17-25; 4:1</string>
+      <key>gospel</key>
+      <string>LUKE 11:42-46</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Paul, Archbishop of Constantinople, The Confessor (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 4:2-9</string>
+      <key>gospel</key>
+      <string>LUKE 11:47-54; 12:1</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Thirty-two Holy Martyrs of Melitene, and of our Holy Father Lazaros the Wonderworker, Hermit of Mount Galesius (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 4:10-18</string>
+      <key>gospel</key>
+      <string>LUKE 12:2-11</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Synaxis of the Archangels Michael and Gabriel and of all the Heavenly Powers (Class 3)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>HEBREWS 2:2-10</string>
+      <key>gospel</key>
+      <string>LUKE 10:16-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Onesiphoros and Porphyry and of our Venerable Mother Matrona. Nectarios the Wonderworker, Metropolitan of the Pentapolis. (Class 5)</string>
+      <key>note</key>
+      <string>Seventh Sunday After the Holy Cross - The Daughter of Jairus</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>GALATIANS 6:11-18</string>
+      <key>gospel</key>
+      <string>LUKE 8:41-56</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Apostles Olympos, Rhodion, Sosipater, Tertios, Erastes and Quartos and of the Holy Martyr Orestes (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 THESSALONIANS 1:1-5</string>
+      <key>gospel</key>
+      <string>LUKE 12:13-15; 22-31</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy martyrs Menas, Victor, Vincent and Stephanida and of our Holy Father Theodore the Studite, Confessor (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 THESSALONIANS 1:6-10</string>
+      <key>gospel</key>
+      <string>LUKE 12:42-48</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints John the Merciful, Patriarch of Alexandria, of our Holy Father Nilus the Sinaite and of the Hieromartyr Josaphat, Archbishop of Polotsz (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>1 THESSALONIANS 2:1-8</string>
+      <key>gospel</key>
+      <string>LUKE 12:48-59</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints John Chrysostom, Archbishop of Constantinople (Class 3)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>HEBREWS 7:26-28; 8:1-2</string>
+      <key>gospel</key>
+      <string>JOHN 10:9-16</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy and Illustrious Apostle Philip (Class 4)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>ACTS 8:26-39</string>
+      <key>gospel</key>
+      <string>JOHN 1:43-51</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Beginning of the Christmas Fast according to the ancient discipline - Commemoration of the Holy Martyrs Gourias, Samonas and Habib, Confessors (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed * Beginning of the Nativity's Fast according to the ancient discipline</string>
+      <key>tone</key>
+      <string>5</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 8:1-5</string>
+      <key>gospel</key>
+      <string>LUKE 9:37-43</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy and Illustrious Apostle Matthew the Evangelist (Class 4)</string>
+      <key>note</key>
+      <string>Eighth Sunday After the Holy Cross - The Good Samaritan</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 4:9-16</string>
+      <key>gospel</key>
+      <string>MATTHEW 9:9-13</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Gregory the Wonderworker, Bishop of Neo-Caesarea (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 THESSALONIANS 2:20; 3:1-8</string>
+      <key>gospel</key>
+      <string>LUKE 12:1; 12-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Plato and Romanos (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 THESSALONIANS 3:8-13</string>
+      <key>gospel</key>
+      <string>LUKE 14:25-35</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Abadiah and of the Holy Martyr Barlaam (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 THESSALONIANS 4:1-12</string>
+      <key>gospel</key>
+      <string>LUKE 15:1-10</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Preparation of the Feast of the Entrance of the Most Holy Mother of God into the Temple - Commemoration of our Fathers among the Saints Gregory the Decapolite and Proclus, Archbishop of Constantinople (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>1 THESSALONIANS 4:18; 5:1-10</string>
+      <key>gospel</key>
+      <string>LUKE 16:1-9</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Entrance of the Most Holy Mother of God into the Temple, or, the Presentation of the Blessed Virgin Mary (Class 2)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>HEBREWS 9:1-7</string>
+      <key>gospel</key>
+      <string>LUKE 10:38-42; 11:27-28</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>2nd Day of Celebration of the Presentation - Commemoration of the Holy Apostles Philemon and of the Holy Apphias, Archippos and Onesimos - also of the Holy Martyrs Cecilia, Valerian and Tiburtius (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>6</string>
+      <key>epistle</key>
+      <string>2 CORINTHIANS 11:1-6</string>
+      <key>gospel</key>
+      <string>LUKE 9:57-62</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>3rd Day of Celebration of the Presentation - Commemoration of our Holy Fathers Gregory, Bishop of Agrigentium and Amphilochios, Bishop of Iconium (Class 5)</string>
+      <key>note</key>
+      <string>Ninth Sunday After the Holy Cross - The Fool</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>EPHESIANS 2:14-22</string>
+      <key>gospel</key>
+      <string>LUKE 12:16-22</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>4th Day of Celebration of the Presentation - Commemoration of our Fathers among the Saints the Hieromartyrs Clement, Pope of Rome and Peter, Bishop of Alexandria (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>2 THESSALONIANS 1:1-10</string>
+      <key>gospel</key>
+      <string>LUKE 17:20-25</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Leave-taking of the Feast of the Presentation - Commemoration of the Holy Great-martyr of Christ and most wise Catherine of Alexandria and of the Holy Great-martyr Mercury (Class 3)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>GALATIANS 3:23-29; 4:1-5</string>
+      <key>gospel</key>
+      <string>MARK 5:24-34</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Fathers Alypios the Stylite and Nikon the Preacher of Repentance (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>2 THESSALONIANS 2:1-12</string>
+      <key>gospel</key>
+      <string>LUKE 18:15-17; 26-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr James the Persian (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>2 THESSALONIANS 2:13-17; 3:1-5</string>
+      <key>gospel</key>
+      <string>LUKE 18:31-34</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Stephen the Latter and Irenarchos (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>2 THESSALONIANS 3:6-18</string>
+      <key>gospel</key>
+      <string>LUKE 19:12-28</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Paramon and Philumenes (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>7</string>
+      <key>epistle</key>
+      <string>GALATIANS 1:3-10</string>
+      <key>gospel</key>
+      <string>LUKE 10:19-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy and Illustrious Apostle Andrew, the First-called (Class 3)</string>
+      <key>note</key>
+      <string>Thirteenth Sunday After the Holy Cross - The Rich Man</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 CORINTHIANS 4:9-16</string>
+      <key>gospel</key>
+      <string>JOHN 1:35-51</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Nahum (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 TIMOTHY 1:1-7</string>
+      <key>gospel</key>
+      <string>LUKE 19:37-44</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Habakkuk (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 TIMOTHY 1:8-14</string>
+      <key>gospel</key>
+      <string>LUKE 19:45-48</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Zephaniah (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>1 TIMOTHY 1:18-20; 2:8-15</string>
+      <key>gospel</key>
+      <string>LUKE 20:1-8</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Great-martyr Barbara and of our Holy Father John the Damascene (Class 4)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>GALATIANS 3:23-29; 4:1-5</string>
+      <key>gospel</key>
+      <string>MATTHEW 11:27-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy and God-bearing Father Sabas the Sanctified (Class 3)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>GALATIANS 5:22-26; 6:1-2</string>
+      <key>gospel</key>
+      <string>MATTHEW 11:27-30</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Nicholas, Archbishop of Myra in Lycia, The Wonderworker (Class 3)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>8</string>
+      <key>epistle</key>
+      <string>HEBREWS 13:17-21</string>
+      <key>gospel</key>
+      <string>LUKE 6:17-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Ambrose, Bishop of Milan (Class 5)</string>
+      <key>note</key>
+      <string>Tenth Week After the Holy Cross - Crippled Woman</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>EPHESIANS 5:8-19</string>
+      <key>gospel</key>
+      <string>LUKE 13:10-17</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Preparation of the Feast of the Maternity of Anne, the Mother of the Mother of God - Commemoration of our Holy Father Patapios (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>1 TIMOTHY 5:1-12</string>
+      <key>gospel</key>
+      <string>LUKE 20:27-44</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Maternity of Anne, the Mother of the Mother of God and the Dedication of the Church of the Resurrection. (Class 2)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>GALATIANS 4:22-27</string>
+      <key>gospel</key>
+      <string>LUKE 8:16-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Mena, Hermongenes and Eugraphos (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>1 TIMOTHY 5:22-25; 6:1-11</string>
+      <key>gospel</key>
+      <string>LUKE 21:5-8; 10-11; 20-24</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Holy Father Daniel the Stylite (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>1 TIMOTHY 6:17-21</string>
+      <key>gospel</key>
+      <string>LUKE 21:28-33</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of our Father among the Saints Spiridon the Wonderworker, Bishop of Trimythonthis of Cyprus (Class 4)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>EPHESIANS 5:8-19</string>
+      <key>gospel</key>
+      <string>JOHN 10:9-16</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Eustrates, Auxentios, Eugene, Mardarios, Orestes and the Virgin Lucia (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>1</string>
+      <key>epistle</key>
+      <string>GALATIANS 5:22-26; 6:1-2</string>
+      <key>gospel</key>
+      <string>LUKE 13:19-29</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Thyrces, Leucios, Callinicos, Philemon and Apollonios and Arrian. (Class 5)</string>
+      <key>note</key>
+      <string>Sunday of the Forefathers</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>COLOSSIANS 3:4-11 - Col 3:4-11 (29th Sunday After Pentecost)</string>
+      <key>gospel</key>
+      <string>LUKE 14:16-24</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Hieromartyr Eleutherios, of our Holy Father Paul of Latra, and of our Father among the Saints Stephen the Confessor, Archbishop of Surozh (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>2 TIMOTHY 2:20-26</string>
+      <key>gospel</key>
+      <string>MARK 8:11-21</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Haggai (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>2 TIMOTHY 3:16-17; 4:1-4</string>
+      <key>gospel</key>
+      <string>MARK 8:22-26</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Prophet Daniel and of the Three Holy Children Ananias, Azarias and Mizael (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>2 TIMOTHY 4:9-22</string>
+      <key>gospel</key>
+      <string>MARK 8:30-34</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyrs Sebastian and his companions (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>TITUS 1:5-14</string>
+      <key>gospel</key>
+      <string>MARK 9:9-15</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Commemoration of the Holy Martyr Boniface (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>TITUS 1:15-16; 2:1-10</string>
+      <key>gospel</key>
+      <string>MARK 9:32-41</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Preparation of the Nativity in the flesh of our Lord, God and Savior Jesus Christ - Commemoration of the Holy Hieromartyr Ignatius the God-bearer (Class 5)</string>
+      <key>note</key>
+      <string>Saturday Before the Nativity of our Lord</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>2</string>
+      <key>epistle</key>
+      <string>GALATIANS 3:8-11</string>
+      <key>gospel</key>
+      <string>LUKE 13:19-29</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>2nd Day of the Celebration of the Preparation - Commemoration of the Holy Martyr Juliana of Nicomedia (Class 5)</string>
+      <key>note</key>
+      <string>Sunday Before the Nativity of our Lord - Genealogy</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 11:9-10; 32-40</string>
+      <key>gospel</key>
+      <string>MATTHEW 1:1-25</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>3rd Day of the Celebration of the Preparation - Commemoration of the Holy Great-martyr Anastasia (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 3:5-11; 17-18</string>
+      <key>gospel</key>
+      <string>MARK 9:41-49; 10:1</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>4th Day of the Celebration of the Preparation - Commemoration of the Ten Holy Martyrs of Crete (Class 5)</string>
+      <key>fasting</key>
+      <string>Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 4:1-13</string>
+      <key>gospel</key>
+      <string>MARK 10:2-12</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Paramony of the Nativity of our Lord - Commemoration of the Holy Woman Martyr Eugenia (Class 4)</string>
+      <key>fasting</key>
+      <string>Fast until noon and Abstinence from specific food(s). (Traditionally: Meat and meat products)</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 1:1-12</string>
+      <key>gospel</key>
+      <string>LUKE 2:1-20</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Feast of the Nativity according to the flesh of our Lord, God and Savior Jesus Christ (Class 1)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>GALATIANS 4:4-7</string>
+      <key>gospel</key>
+      <string>MATTHEW 2:1-12</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>2nd Day Celebration of the Nativity of the Lord.  Synaxis in honor of the Most Holy Mother of God - Commemoration of the Holy Hieromartyr Euthymius (Class 2)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>HEBREWS 2:11-18</string>
+      <key>gospel</key>
+      <string>MATTHEW 2:13-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>3rd Day Celebration of the Nativity of the Lord - Commemoration of the Holy Protomartyr and Archdeacon Stephen, and of our Holy Father Theodore the Confessor, brother of Theophane the Hymnographer (Class 5)</string>
+      <key>note</key>
+      <string>Saturday After the Nativity of our Lord</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>3</string>
+      <key>epistle</key>
+      <string>ACTS 6:8-15; 7:1-5; 47-60</string>
+      <key>gospel</key>
+      <string>MATTHEW 21:33-42</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>4th Day Celebration of the Nativity of the Lord - Commemoration of the Holy Martyrs burned in Nicomedia (Class 5)</string>
+      <key>note</key>
+      <string>Sunday After the Nativity of our Lord - Commemoration of the Holy Joseph, spouse of the Mother of God, James, David and Protomartyr Stephen.</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>GALATIANS 1:11-19 - Gal 1:11-19  (20th Sunday After Pentecost)</string>
+      <key>gospel</key>
+      <string>MATTHEW 2:13-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>5th Day Celebration of the Nativity of the Lord - Commemoration of the Holy Innocents put to death in Bethlehem by order of King Herod - and of our Holy Father Marcellus, Abbot of the Monastery of the Acemetes (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>HEBREWS 8:7-13</string>
+      <key>gospel</key>
+      <string>MARK 10:46-52</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>6th Day Celebration of the Nativity of the Lord - Commemoration of the Holy Martyr Anysia and of the Holy Zoticos, the Feeder of Orphans (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>HEBREWS 9:8-23</string>
+      <key>gospel</key>
+      <string>MARK 11:11-23</string>
+    </dict>
+    <dict>
+      <key>commemoration</key>
+      <string>Leave-taking of the Feast of the Nativity of the Lord - Commemoration of the Venerable Melany the Roman (Class 5)</string>
+      <key>fasting</key>
+      <string>No Fast or Abstinence Prescribed</string>
+      <key>tone</key>
+      <string>4</string>
+      <key>epistle</key>
+      <string>HEBREWS 10:1-18</string>
+      <key>gospel</key>
+      <string>MARK 11:22-26</string>
+    </dict>
+  </array>
+  </dict>
+</plist>
