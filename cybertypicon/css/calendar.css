@@ -1,0 +1,462 @@
+@page {
+  size: letter landscape;
+  border: 0;
+  margin: 0.25in;
+  margin-top: 0.5in;
+}
+
+@font-face {
+  font-family: Macondo;
+  src: url("fonts/Macondo-Regular.ttf");
+}
+
+@font-face {
+  font-family: Forum;
+  src: url("fonts/Forum-Regular.ttf");
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  border: 0pt none;
+  margin: 0;
+  font-family: serif;
+  font-size: 10pt;
+  font-family: Macondo;
+  font-style: italic;
+  font-weight: normal;
+  background-image: url("../ikon.png");
+}
+
+div.calendar {
+}
+
+div.page {
+}
+div.frame {
+}
+
+div.calendar-side {
+}
+
+div.month {
+/*
+  page-break-before: always;
+ */
+  display: table;
+  table-layout: fixed;
+  width: 99%;
+  border-collapse: collapse;
+  margin-left: 4pt;
+  margin-right: 4pt;
+  border: none;
+}
+
+/*
+
++--------------------+--------------------+                         extraweek
+|     monthname      |       legend       | masthead    0.6in       0.6in
++-----+-----+-----+--+--+-----+-----+-----+
+|  S  |  M  |  T  | We  |  T  |  F  |  S  | week: dotw  0.2in       0.2in
++-----+-----+-----+-----+-----+-----+-----+
+|     |     |     |     |     |     |     | week: day   1.25in      1.05in
+|     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+
+|     |     |     |     |     |     |     | week: day   1.25in      1.05in
+|     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+
+|     |     |     |     |     |     |     | week: day   1.25in      1.05in
+|     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+
+|     |     |     |     |     |     |     | week: day   1.25in      1.05in
+|     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+
+|     |     |     |     |     |     |     | week: day   1.25in      1.05in
+|     |     |     |     |     |     |     |
++-----+-----+-----+-----+-----+-----+-----+
+|     |     |     |     |     |     |     | week: day               1.05in
+|     |     |     |     |     |     |     |           = 7.425     = 7.55in
++-----+-----+-----+-----+-----+-----+-----+
+
+                                            +(0.5in + 0.25in)
+                                                      = 7.80in   = 7.85in
+
+ 1.425in x 7  = 9.975in + (0.25in+0.25in) = 10.475in
+ */
+
+div.masthead {
+  display: table-caption;
+  caption-side: top;
+  margin: 0;
+  height: 0.6in;
+  width: 100%;
+}
+
+div.monthname {
+  display: block;
+  float: left;
+  width: 35%;
+  padding-left: 2pt;
+  font-size: 36pt;
+  font-weight: bold; 
+  color: #999;    
+}
+
+div.jan,
+div.feb,
+div.mar,
+div.apr,
+div.may,
+div.jun,
+div.jul,
+div.aug,
+div.sep,
+div.oct,
+div.nov,
+div.dec {
+}
+
+div.legend {
+  display: block;
+  float: right;
+  width: 62%;
+  padding-right: 2pt;
+  font-size: 8pt;
+  text-align: right;
+  vertical-align: top;
+  font-family: Forum;
+  font-weight: normal; 
+}
+
+div.week {
+  display: table-row;
+  border: 0;
+}
+
+div.dotw {
+  display: table-cell;
+  font-size: 16pt;
+  text-align: center;
+  height: 0.25in;
+  color: #999;    
+  font-weight: bold;
+}
+
+div.noday {
+  display: table-cell;
+  vertical-align: top;
+  width: 1.425in;
+  height: 1.25in;
+
+  position: relative;
+  background-color: #fff;
+  padding: 2pt;
+  border: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+}
+
+div.day {
+  display: table-cell;
+  vertical-align: top;
+  width: 1.425in;
+  height: 1.25in;
+
+  position: relative;
+  border: 0;
+
+  padding: 2pt;
+  border: 1px solid #ccc;
+}
+div.leftday {
+}
+div.rightday {
+}
+div.bottomday {
+}
+
+div.dayline {
+  display: block;
+  position: relative;
+
+  width: 100%;
+  height: 1.249in;
+}
+
+div.fourweeks {
+  height: 1.449in;
+}
+div.extraweek {
+  height: 1.05in;
+}
+
+/*
+
++--------------------------------+-------+
+| 0+ feasts                      | day of|
+| 0+ civil                       | month |
+|                                +-------+
+|                                        |
++----------------------------------------+
+           // vertical fill //
++----------------------------------------+
+| 1+ readings                            |
+|                                        |
++-------------------+--------------------+
+|    fasting info   |   lectionary info  |
+|                   |                    |
++-------------------+--------------------+
+
+<div class="day">
+    <div class="upper">
+        <div class="dotm">23</div>
+        <div class="feast">Conception of the Forerunner</div>
+        <div class="lesser">Calling the Four Fishermen</div>
+        <div class="season">Autumn begins</div>
+    </div>
+    <div class="lower">
+        <div class="reading celeb">Epistle: Galatians 4:22-27 (Sep 9)</div>
+        <div class="reading celeb">Gospel: Luke 1:5-25</div>
+        <div class="reading regular">Epistle: 2 Corinthians 6:16b-7:1</div>
+        <div class="reading regular">Gospel: Luke 5:1-11</div>
+        <div class="lastline"><div class="line">
+            <div class="fast"></div>
+            <div class="lectionary">17AP / 1AC</div>
+        </div></div>
+    </div>
+</div>
+
+ */
+
+div.upper {
+  position: absolute;
+  top: 0;
+
+  width: 1.425in;
+}
+
+div.dotm {
+  font-size: 24pt;
+  text-align: right;
+  float: right;
+  width: 0.35in;
+  height: 0.35in;
+  color: #030303;
+}
+
+div.great {
+  font-weight: bold; 
+}
+div.great-color,
+span.great-color {
+  font-size: 9pt;
+  line-height: 10pt;
+/*
+  color: rgb(255, 204, 0);
+ */
+}
+
+div.minor, div.feast {
+  font-size: 8pt;
+  line-height: 9pt;
+}
+div.minor-color,
+span.minor-color,
+div.feast-color,
+span.feast-color {
+/*
+  color: rgb(102, 0, 0);
+ */
+}
+
+div.fasting {
+  font-weight: bold;
+  font-size: 8pt;
+}
+div.fasting-color,
+span.fasting-color {
+/*
+  color: rgb(102, 0, 0);
+ */
+}
+
+div.major, div.lesser {
+  font-size: 8pt;
+  font-weight: bold;
+}
+div.other {
+  font-size: 8pt;
+}
+div.major-color,
+span.major-color,
+div.lesser-color,
+span.lesser-color,
+div.other-color,
+span.other-color {
+}
+
+div.multiple-info {
+  font-size: 7pt;
+}
+
+div.us {
+  font-size: 8pt;
+  text-align: right;
+  float: right;
+  font-weight: bold;
+  line-height: 10px;
+  margin-right: 9px;
+}
+div.us-color,
+span.us-color {
+/*
+  color: rgb(165, 42, 42);
+ */
+}
+
+div.season {
+  font-size: 8pt;
+  text-align: right;
+  float: right;
+  font-weight: bold;
+  line-height: 10px;
+  margin-right: 9px;
+}
+div.season-color,
+span.season-color {
+/*
+  color: rgb(0, 102, 0);
+ */
+}
+
+div.dst {
+  font-size: 8pt;
+  text-align: right;
+  float: right;
+  font-style: italic;
+  line-height: 10px;
+  margin-right: 9px;  
+}
+div.dst-color,
+span.dst-color {
+/*
+  color: rgb(0, 102, 0);
+ */
+}
+
+div.lower {
+  position: absolute;
+  bottom: 0;
+
+  width: 1.425in;
+}
+
+div.reading {
+  font-family: Forum;
+  font-weight: bold; 
+  font-size: 6pt;
+  line-height: 7pt;
+}
+
+div.celeb,
+span.celeb {
+  font-weight: bold;
+}
+
+div.regular {
+  font-weight: normal;
+}
+
+div.reading a:link,
+div.reading a:visited,
+div.reading a:active,
+div.reading a:hover {
+  color: black;
+  text-decoration: none;
+}
+div.reading a:hover {
+  text-decoration: underline;
+}
+
+div.lastline { 
+  display: table;
+  width: 100%;
+  font-weight: bold;  
+  margin-top: 4px;
+}
+
+div.fast {
+  display: table-cell;
+  float: left;
+/*
+  color: rgb(102, 0, 0);
+ */
+  font-weight: bold;
+  font-size: 6pt;
+  vertical-align: bottom;
+}
+div.fast a:link,
+div.fast a:visited,
+div.fast a:active,
+div.fast a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+div.lectionary {
+  display: table-cell;
+  float: right;
+  font-size: 6pt;
+  text-align: right;
+  vertical-align: bottom;
+}
+
+div.tone, div.tone2 {
+  float: right;
+  font-weight: bold;  
+  font-size: 6pt;
+  line-height: 7pt;
+  vertical-align: bottom;
+}
+div.tone2 {
+  display: table-cell;
+}
+div.tone a:link, div.tone2 a:link,
+div.tone a:visited, div.tone2 a:visited,
+div.tone a:active, div.tone2 a:active,
+div.tone a:hover, div.tone2 a:hover {
+  color: black;
+  text-decoration: none;
+}
+div.tone a:hover, div.tone2 a:hover {
+  text-decoration: underline;
+}
+
+span.exponent {
+  font-size: 7pt;
+  vertical-align: super;
+}
+span.forcebreak::before {
+}
+
+#jan,
+#feb,
+#mar,
+#apr,
+#may,
+#jun,
+#jul,
+#aug,
+#sep,
+#oct,
+#nov,
+#dec {
+  background-color: #FFCC00;
+  background-position: top left;
+  background-repeat: no-repeat;
+  width: 10.2in;
+  height: 7.5in;
+}
