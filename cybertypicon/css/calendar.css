@@ -370,6 +370,8 @@ div.regular {
   font-weight: normal;
 }
 
+div.dotm a:link,
+div.dotm a:visited,
 div.reading a:link,
 div.reading a:visited,
 div.reading a:active,
@@ -377,6 +379,7 @@ div.reading a:hover {
   color: black;
   text-decoration: none;
 }
+div.dotm a:hover,
 div.reading a:hover {
   text-decoration: underline;
 }

@@ -1,0 +1,84 @@
+@page {
+}
+
+@font-face {
+    font-family: Macondo;
+    src: url("fonts/Macondo-Regular.ttf");
+}
+
+@font-face {
+    font-family: Forum;
+    src: url("fonts/Forum-Regular.ttf");
+}
+
+* {
+}
+
+body {
+    font-family: serif;
+    font-size: 12pt;
+    font-family: Macondo;
+    font-weight: normal;
+}
+
+div.header {
+    text-align: center;
+    font-size: 14pt;
+}
+
+div.date {
+    font-size: 16pt;
+    font-weight: bold; 
+}
+
+div.commemorations,
+div.comemoration,
+div.menaion,
+div.tone,
+div.office {
+}
+
+div.note {
+    font-style: italic;
+}
+
+div.title {
+    font-weight: bold; 
+}
+div.text {
+}
+
+span.title, span.role {
+    font-weight: bold; 
+}
+   
+
+div.body {
+}
+
+div.antiphons-prayer,
+div.antiphons,
+div.isodhikon,
+div.troparia,
+div.trisagion,
+div.epistle,
+div.gospel,
+div.hirmos,
+div.kinonikon,
+div.post-communion,
+div.apolysis {
+    padding-top: 8pt;
+}
+
+div.troparion,
+div.kondakion {
+    padding-top: 4pt;
+}
+
+div.trailer {
+}
+
+div.credits {
+    text-align: center;
+    font-size: 10pt;
+}
