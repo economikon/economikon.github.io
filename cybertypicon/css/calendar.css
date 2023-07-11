@@ -283,7 +283,7 @@ span.fasting-color {
  */
 }
 
-div.major, div.lesser {
+div.major, span.major, div.lesser {
   font-size: 8pt;
   font-weight: bold;
 }
@@ -390,6 +390,10 @@ div.lastline {
   font-weight: bold;  
   margin-top: 4px;
 }
+span.lastline {
+  font-weight: bold;  
+}
+
 
 div.fast {
   display: table-cell;
