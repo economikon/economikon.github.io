@@ -48,7 +48,8 @@ div.title {
 div.text {
 }
 
-span.title, span.role {
+span.title,
+span.role {
     font-weight: bold; 
 }
    
