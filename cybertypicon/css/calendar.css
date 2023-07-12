@@ -7,12 +7,12 @@
 
 @font-face {
     font-family: Macondo;
-    src: url("https://economikon.org/calendar/fonts/Macondo-Regular.ttf");
+    src: url("fonts/Macondo-Regular.ttf");
 }
 
 @font-face {
     font-family: Forum;
-    src: url("https://economikon.org/calendar/fonts/Forum-Regular.ttf");
+    src: url("fonts/Forum-Regular.ttf");
 }
 
 * {
