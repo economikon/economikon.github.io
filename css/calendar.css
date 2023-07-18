@@ -7,12 +7,12 @@
 
 @font-face {
     font-family: Macondo;
-    src: url("fonts/Macondo-Regular.ttf");
+    src: url("../fonts/Macondo-Regular.ttf");
 }
 
 @font-face {
     font-family: Forum;
-    src: url("fonts/Forum-Regular.ttf");
+    src: url("../fonts/Forum-Regular.ttf");
 }
 
 * {
