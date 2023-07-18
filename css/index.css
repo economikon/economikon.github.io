@@ -63,12 +63,12 @@ div.table {
 div.row {
     display: table-row;
     border: 0.25in;
-    padding-top: 5pt;
 }
 div.cell {
     display: table-cell;
     font-size: 16pt;
     text-align: center;
+    padding-top: 10pt;
     padding-left: 5pt;
     padding-right: 5pt;
 }
