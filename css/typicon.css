@@ -6,18 +6,13 @@
     src: url("../fonts/Macondo-Regular.ttf");
 }
 
-@font-face {
-    font-family: Forum;
-    src: url("../fonts/Forum-Regular.ttf");
-}
-
 * {
 }
 
 body {
     font-family: serif;
     font-size: 12pt;
-    font-family: Macondo;
+//  font-family: Macondo;
     font-weight: normal;
 }
 
