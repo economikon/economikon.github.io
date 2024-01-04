@@ -229,7 +229,7 @@ div.extraweek {
 div.upper {
     position: absolute;
     top: 0;
-    width: 1.425in;
+    width: 100%;
 }
 
 div.dotm {
@@ -347,7 +347,7 @@ div.lower {
     position: absolute;
     bottom: 0;
 
-    width: 1.425in;
+    width: 100%;
 }
 
 div.reading {
